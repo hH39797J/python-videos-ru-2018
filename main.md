@@ -27,6 +27,21 @@
 | [Лайтнинги: Melulza & Poem Generator](https://youtu.be/sp1wdc9gLvk) Стёпа Заступов, Дима Алимов | 18:02 | |
 
 
+## Python Meetup Chelyabinsk #2
+
+Событие: https://pychel.timepad.ru/event/634949/
+
+Дата: **03 февраля 2017**
+
+| | | |
+| --- | :---: | --- |
+| [Введение в нейронные сети с использованием Python. Ян Анисимов, Инсит-телеком](https://youtu.be/X7OkaOHj1DI) | 35:25 | [:notebook:](https://speakerdeck.com/pychel/ian-anisimov-vviedieniie-v-nieironnyie-sieti-s-ispol-zovaniiem-python) |
+| [Практика использования setuptools. Дмитрий Федосеев, Редсолюшн](https://youtu.be/0vWBnJa-two) | 35:00 | [:notebook:](https://docs.google.com/presentation/d/1GIaV71OLba4NBU17rXEpCbpI-m9kRtI6TT4MRLSr9cw/edit#slide=id.p) |
+| [Apache Airflow: как не растерять свою бигдату. Дмитрий Никонов, Napoleon IT](https://youtu.be/2vg_DMmoqnE) | 28:48 | [:notebook:](https://speakerdeck.com/pychel/dmitrii-nikonov-kak-nie-rastieriat-bighdatu-s-pomoshch-iu-apache-airflow) |
+| [Кроссдоменная безопасность в браузере. Иван Громов, coins.ph](https://youtu.be/hKJyTTkMrVU) | 35:37 | [:notebook:](https://docs.google.com/presentation/d/1uZrWDWgJReL1YZyVSDe3k_-L1uuk2lEgRXZM08OT-Mw/edit#slide=id.p) |
+| [Open-source СУБД глазами обычного программиста. Евгений Климов, Sailplay](https://youtu.be/_je9o0Y03rs) | 1:25:39 | [:notebook:](https://speakerdeck.com/slach/opensource-subd-ghlazami-obychnogho-proghrammista) |
+
+
 ## Moscow Python Meetup № 52
 
 Событие: http://www.moscowpython.ru/meetup/52/
