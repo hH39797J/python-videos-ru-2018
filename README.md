@@ -11,6 +11,7 @@
 
 * [События](#%D0%A1%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F)
   * [PiterPy Meetup \#3](#piterpy-meetup-3)
+  * [Python Meetup Chelyabinsk \#2](#python-meetup-chelyabinsk-2)
   * [Moscow Python Meetup № 52](#moscow-python-meetup--52)
 
 
@@ -27,6 +28,21 @@
 | [Pure Python event-driven crawler, Фил Кулин](https://youtu.be/XpuW_N-9994) | 45:14 | |
 | [Коммит-мессаджи: гайды и реальность, Николай Стародубцев](https://youtu.be/TpjSeN8_Yp4) | 43:41 | |
 | [Лайтнинги: Melulza & Poem Generator](https://youtu.be/sp1wdc9gLvk) Стёпа Заступов, Дима Алимов | 18:02 | |
+
+
+## Python Meetup Chelyabinsk #2
+
+Событие: https://pychel.timepad.ru/event/634949/
+
+Дата: **03 февраля 2017**
+
+| | | |
+| --- | :---: | --- |
+| [Введение в нейронные сети с использованием Python. Ян Анисимов, Инсит-телеком](https://youtu.be/X7OkaOHj1DI) | 35:25 | [:notebook:](https://speakerdeck.com/pychel/ian-anisimov-vviedieniie-v-nieironnyie-sieti-s-ispol-zovaniiem-python) |
+| [Практика использования setuptools. Дмитрий Федосеев, Редсолюшн](https://youtu.be/0vWBnJa-two) | 35:00 | [:notebook:](https://docs.google.com/presentation/d/1GIaV71OLba4NBU17rXEpCbpI-m9kRtI6TT4MRLSr9cw/edit#slide=id.p) |
+| [Apache Airflow: как не растерять свою бигдату. Дмитрий Никонов, Napoleon IT](https://youtu.be/2vg_DMmoqnE) | 28:48 | [:notebook:](https://speakerdeck.com/pychel/dmitrii-nikonov-kak-nie-rastieriat-bighdatu-s-pomoshch-iu-apache-airflow) |
+| [Кроссдоменная безопасность в браузере. Иван Громов, coins.ph](https://youtu.be/hKJyTTkMrVU) | 35:37 | [:notebook:](https://docs.google.com/presentation/d/1uZrWDWgJReL1YZyVSDe3k_-L1uuk2lEgRXZM08OT-Mw/edit#slide=id.p) |
+| [Open-source СУБД глазами обычного программиста. Евгений Климов, Sailplay](https://youtu.be/_je9o0Y03rs) | 1:25:39 | [:notebook:](https://speakerdeck.com/slach/opensource-subd-ghlazami-obychnogho-proghrammista) |
 
 
 ## Moscow Python Meetup № 52
