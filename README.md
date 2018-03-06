@@ -12,6 +12,7 @@
 * [События](#%D0%A1%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F)
   * [PiterPy Meetup \#3](#piterpy-meetup-3)
   * [Python Meetup Chelyabinsk \#2](#python-meetup-chelyabinsk-2)
+  * [KharkivPy \#18](#kharkivpy-18)
   * [Moscow Python Meetup № 52](#moscow-python-meetup--52)
 
 
@@ -43,6 +44,18 @@
 | [Apache Airflow: как не растерять свою бигдату. Дмитрий Никонов, Napoleon IT](https://youtu.be/2vg_DMmoqnE) | 28:48 | [:notebook:](https://speakerdeck.com/pychel/dmitrii-nikonov-kak-nie-rastieriat-bighdatu-s-pomoshch-iu-apache-airflow) |
 | [Кроссдоменная безопасность в браузере. Иван Громов, coins.ph](https://youtu.be/hKJyTTkMrVU) | 35:37 | [:notebook:](https://docs.google.com/presentation/d/1uZrWDWgJReL1YZyVSDe3k_-L1uuk2lEgRXZM08OT-Mw/edit#slide=id.p) |
 | [Open-source СУБД глазами обычного программиста. Евгений Климов, Sailplay](https://youtu.be/_je9o0Y03rs) | 1:25:39 | [:notebook:](https://speakerdeck.com/slach/opensource-subd-ghlazami-obychnogho-proghrammista) |
+
+
+## KharkivPy #18
+
+Событие: https://www.meetup.com/uapycon/events/246675908/
+
+Дата: **27 января 2018**
+
+| | | |
+| --- | :---: | --- |
+| [AWS hackathon: pride and joy](https://youtu.be/NWtk4dBpGO8) Илья Батозский | 31:23 | [:notebook:](https://www.icloud.com/keynote/0lhyAhPbsq7sQ9x2CMhoqT-xw#AWS_hackathon) |
+| [Тестирование производительности: как получать более надежные и воспроизводимые результаты](https://youtu.be/EhBXoq6A4lo) Константин Данилов | 54:01 | [:notebook:](https://github.com/koder-ua/perf_lecture) |
 
 
 ## Moscow Python Meetup № 52
