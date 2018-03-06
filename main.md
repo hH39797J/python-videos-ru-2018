@@ -42,6 +42,18 @@
 | [Open-source СУБД глазами обычного программиста. Евгений Климов, Sailplay](https://youtu.be/_je9o0Y03rs) | 1:25:39 | [:notebook:](https://speakerdeck.com/slach/opensource-subd-ghlazami-obychnogho-proghrammista) |
 
 
+## KharkivPy #18
+
+Событие: https://www.meetup.com/uapycon/events/246675908/
+
+Дата: **27 января 2018**
+
+| | | |
+| --- | :---: | --- |
+| [AWS hackathon: pride and joy](https://youtu.be/NWtk4dBpGO8) Илья Батозский | 31:23 | [:notebook:](https://www.icloud.com/keynote/0lhyAhPbsq7sQ9x2CMhoqT-xw#AWS_hackathon) |
+| [Тестирование производительности: как получать более надежные и воспроизводимые результаты](https://youtu.be/EhBXoq6A4lo) Константин Данилов | 54:01 | [:notebook:](https://github.com/koder-ua/perf_lecture) |
+
+
 ## Moscow Python Meetup № 52
 
 Событие: http://www.moscowpython.ru/meetup/52/
