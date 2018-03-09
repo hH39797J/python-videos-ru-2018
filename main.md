@@ -14,6 +14,19 @@
 
 # События
 
+## Moscow Python Meetup № 53
+
+Событие: http://www.moscowpython.ru/meetup/53/
+
+Дата: **22 февраля 2018**
+
+| | | |
+| --- | :---: | --- |
+| [Я не люблю asyncio](https://youtu.be/OjDAu2DCzt0) Павел Камаев ("Лаборатория Касперского") | 39:10 | [:notebook:](https://speakerdeck.com/moscowdjango/ia-nie-liubliu-asyncio) |
+| [Мобильное приложение на Python c kivy/buildozer — ключ к успеху](https://youtu.be/vCAN1EFH1Xw) Владислав Шашков (Сбербанк) | 26:52 | [:notebook:](https://speakerdeck.com/moscowdjango/buildozer-kliuch-k-uspiekhu) |
+| [JupyterHub, или Как не свихнуться, управляя более, чем 1000 пользователей Питона](https://youtu.be/I49jOFSCV00) Андрей Петрин (Яндекс) | 34:17 | [:notebook:](https://www.dropbox.com/s/d42ucisjosrtv1j/Jupyterhub.pdf?dl=0) |
+
+
 ## PiterPy Meetup #3
 
 Событие: http://telegra.ph/PiterPy-Meetup-3-mini-otchyot-o-proshedshem-mitape-02-20
