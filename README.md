@@ -10,6 +10,7 @@
 ## Содержание
 
 * [События](#%D0%A1%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F)
+  * [PyCon Belarus 2018](#pycon-belarus-2018)
   * [Moscow Python Meetup № 53](#moscow-python-meetup--53)
   * [PiterPy Meetup \#3](#piterpy-meetup-3)
   * [Python Meetup Chelyabinsk \#2](#python-meetup-chelyabinsk-2)
@@ -18,6 +19,37 @@
 
 
 # События
+
+## PyCon Belarus 2018
+
+Событие: https://events.dev.by/pycon-belarus-2018
+
+Дата: **24 февраля 2018**
+
+*Доклады, посвященные PYTHON:*
+
+| | | |
+| --- | :---: | --- |
+| [Tarek Ziadé, Mozilla - Building microservices in Python](https://youtu.be/qyOwW8yDy24) | 44:13 | [:notebook:](https://ziade.org/slides/pyconby2018/slides.html#slide1) |
+| [Николай Ким, Microsoft - Использование языка программирования Rust в проектах, написанных на Python](https://youtu.be/mt_l0NPG0x8) | 34:44 | |
+| [Hynek Schlawack, Variomedia AG - Solid Snakes or: How to Take 5 Weeks of Vacation](https://youtu.be/1L-uwN0E9m8) | 41:06 | [:notebook:](https://speakerdeck.com/hynek/solid-snakes-or-how-to-take-5-weeks-of-vacation) |
+| [Andrew Svetlov - Advanced Unicode](https://youtu.be/rzey5swy2bg) | 48:05 | [:notebook:](https://asvetlov.github.io/pycon-minsk-2018/#/) |
+| [Andrey Vlasovskikh, JetBrains - What Python Can Do with Microcontrollers](https://youtu.be/0KMnJm3kRSQ) | 40:59 | [:notebook:](http://blog.pirx.ru/media/files/2018/pyconby/#1) |
+| [Andrii Soldatenko, Tippilab - Ethereum Under the Microscope](https://youtu.be/UOINztxa4PU) | 35:19 | |
+| [Nicola Iarocci, CIR2K - The Eve - REST APIs for Humans](https://youtu.be/9zkXSQt5JN8) | 46:00 | [:notebook:](https://speakerdeck.com/nicola/eve-rest-api-for-humans) |
+| [Александр Кошелев, Яндекс - Буферизация записи в базу](https://youtu.be/TDtzsD0HKCo) | 37:23 | |
+| [Юлия Темушева, Wargaming - Django и Aiohttp: опыт перехода, сравнение производительности](https://youtu.be/nanNEUFJCWo) | 34:24 | |
+
+*Блок DATA SCIENCE докладов:*
+
+| | | |
+| --- | :---: | --- |
+| [Григорий Бакунов, Яндекс - Играть с ИИ: с чего начать и чем продолжить](https://youtu.be/obKx0Re5qNA) | 1:02:43 | |
+| [Gael Varoquaux, INRIA - From numerics to data science in Python](https://youtu.be/b9lracHGoio) | 39:46 | |
+| [Виталий Худобахшов, JetBrains - Внутренности Apache Spark](https://youtu.be/R8fTKMLhrwo) | 41:03 | |
+| [Miroslav Šedivý, UBIMET GmbH - PyTables: How to Store Large Datasets](https://youtu.be/CTFIsBF8xmU) | 39:32 | |
+| [Лиза Довгяло, EPAM - Предсказательные интервалы для временных рядов](https://youtu.be/CnDKsnbF0k8) | 42:24 | |
+
 
 ## Moscow Python Meetup № 53
 
