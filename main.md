@@ -110,3 +110,15 @@
 | [Асинхронщина в Python](https://youtu.be/lIkA0TDX8tE) Александр Полищук (ООО "Код безопасности") | 25:31 | [:notebook:](https://speakerdeck.com/moscowdjango/asinkhronshchina-v-python) |
 | [Airflow – платформа для разработки, планирования и мониторинга рабочих процессов](https://youtu.be/A6YuWmwaTSw) Дина Сафина, Юрий Емельянов и Олег Ильинский (Mail.Ru Group) | 57:41 | [:notebook:](https://speakerdeck.com/moscowdjango/airflow-platforma-dlia-razrabotki-planirovaniia-i-monitoringha-rabochikh-protsiessov) |
 
+
+## Ufapy #4
+
+Событие: http://ufapy.ru
+
+Дата: **18 января 2018**
+
+| | | |
+| --- | :---: | --- |
+| [Кирилл Маловица — «IoT на Python — это просто»](https://youtu.be/GEbYZYma8dU) | 41:40 | |
+| [Дмитрий Назаров — «А REST и ныне там». Рест в 2к18: зачем, как, альтернативы](https://youtu.be/RAogHN3-rzA) | 30:01 | |
+| [Никита Воронов — «О бутербродах, больших проектах и поддержке кода»](https://youtu.be/Htg3FE3GbJ4) | 26:21 | |
