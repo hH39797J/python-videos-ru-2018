@@ -10,6 +10,7 @@
 ## Содержание
 
 * [События](#%D0%A1%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F)
+  * [Kyiv\.py \#23](#kyivpy-23)
   * [PyCon Belarus 2018](#pycon-belarus-2018)
   * [Moscow Python Meetup № 53](#moscow-python-meetup--53)
   * [PiterPy Meetup \#3](#piterpy-meetup-3)
@@ -20,6 +21,19 @@
 
 
 # События
+
+## Kyiv.py #23
+
+Событие: https://www.meetup.com/uapycon/events/247198692/
+
+Дата: **24 февраля 2018**
+
+| | | |
+| --- | :---: | --- |
+| [Yaroslav Muravskyi — The effective use of Django ORM](https://youtu.be/7_dx2W9O2YY) | 34:22 | [:notebook:](https://www.slideshare.net/YaroslavMuravskiy/the-effective-use-of-django-orm) |
+| [Vitaly Androsenko — И снова о RestAPI](https://youtu.be/diF3CdWepWM) | 25:27 | |
+| ~~Тарас Войнаровський — Speedy message parsing in Python and Cython~~ | | [:notebook:](http://slides.com/drizzt1991/speedy-parsing#/) |
+
 
 ## PyCon Belarus 2018
 
