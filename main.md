@@ -14,6 +14,19 @@
 
 # События
 
+## Kyiv.py #23
+
+Событие: https://www.meetup.com/uapycon/events/247198692/
+
+Дата: **24 февраля 2018**
+
+| | | |
+| --- | :---: | --- |
+| [Yaroslav Muravskyi — The effective use of Django ORM](https://youtu.be/7_dx2W9O2YY) | 34:22 | [:notebook:](https://www.slideshare.net/YaroslavMuravskiy/the-effective-use-of-django-orm) |
+| [Vitaly Androsenko — И снова о RestAPI](https://youtu.be/diF3CdWepWM) | 25:27 | |
+| ~~Тарас Войнаровський — Speedy message parsing in Python and Cython~~ | | [:notebook:](http://slides.com/drizzt1991/speedy-parsing#/) |
+
+
 ## PyCon Belarus 2018
 
 Событие: https://events.dev.by/pycon-belarus-2018
@@ -122,3 +135,4 @@
 | [Кирилл Маловица — «IoT на Python — это просто»](https://youtu.be/GEbYZYma8dU) | 41:40 | |
 | [Дмитрий Назаров — «А REST и ныне там». Рест в 2к18: зачем, как, альтернативы](https://youtu.be/RAogHN3-rzA) | 30:01 | |
 | [Никита Воронов — «О бутербродах, больших проектах и поддержке кода»](https://youtu.be/Htg3FE3GbJ4) | 26:21 | |
+
