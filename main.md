@@ -14,6 +14,20 @@
 
 # События
 
+## rannts#19
+
+Событие: https://rannts.ru/meetups/19/
+
+Дата: **17 марта 2018**
+
+| | | |
+| --- | :---: | --- |
+| [Григорий Аршинов - Введение в машинное обучение](https://youtu.be/0GLKygO2C4Q) | 36:44 | [:notebook:](https://speakerdeck.com/gregarshinov/vviedieniie-v-mashinnoie-obuchieniie) |
+| [Александр Рассадин - Искусственный интеллект или Software 2.0](https://youtu.be/kT1Wm4-hhqg) | 1:24:41 | [:notebook:](https://docs.google.com/presentation/d/1wv6ZE-rkwDfLI7oOD8pKJu0o1S0N6zwjsfTQgZV7KcI/edit) |
+| [Никита Вострецов - Webstruct — набор инструментов для извлечения именных сущностей из HTML](https://youtu.be/7AqLVAaIJVE) | 39:47 | [:notebook:](https://speakerdeck.com/whalebothelmsman/webstruct-nabor-instrumientov-dlia-izvliechieniia-imiennykh-ghrupp) |
+| [Александр Мокров - По дороге к микросервисам](https://youtu.be/ebwuM1650uQ) | 49:34 | [:notebook:](https://docs.google.com/presentation/d/1j4L_HzETkuL1Q7dmGW6Z7WVnPZmUrdcll724iGhY_m0/edit) |
+
+
 ## Kyiv.py #23
 
 Событие: https://www.meetup.com/uapycon/events/247198692/
@@ -93,9 +107,9 @@
 | | | |
 | --- | :---: | --- |
 | [Введение в нейронные сети с использованием Python. Ян Анисимов, Инсит-телеком](https://youtu.be/X7OkaOHj1DI) | 35:25 | [:notebook:](https://speakerdeck.com/pychel/ian-anisimov-vviedieniie-v-nieironnyie-sieti-s-ispol-zovaniiem-python) |
-| [Практика использования setuptools. Дмитрий Федосеев, Редсолюшн](https://youtu.be/0vWBnJa-two) | 35:00 | [:notebook:](https://docs.google.com/presentation/d/1GIaV71OLba4NBU17rXEpCbpI-m9kRtI6TT4MRLSr9cw/edit#slide=id.p) |
+| [Практика использования setuptools. Дмитрий Федосеев, Редсолюшн](https://youtu.be/0vWBnJa-two) | 35:00 | [:notebook:](https://docs.google.com/presentation/d/1GIaV71OLba4NBU17rXEpCbpI-m9kRtI6TT4MRLSr9cw/edit) |
 | [Apache Airflow: как не растерять свою бигдату. Дмитрий Никонов, Napoleon IT](https://youtu.be/2vg_DMmoqnE) | 28:48 | [:notebook:](https://speakerdeck.com/pychel/dmitrii-nikonov-kak-nie-rastieriat-bighdatu-s-pomoshch-iu-apache-airflow) |
-| [Кроссдоменная безопасность в браузере. Иван Громов, coins.ph](https://youtu.be/hKJyTTkMrVU) | 35:37 | [:notebook:](https://docs.google.com/presentation/d/1uZrWDWgJReL1YZyVSDe3k_-L1uuk2lEgRXZM08OT-Mw/edit#slide=id.p) |
+| [Кроссдоменная безопасность в браузере. Иван Громов, coins.ph](https://youtu.be/hKJyTTkMrVU) | 35:37 | [:notebook:](https://docs.google.com/presentation/d/1uZrWDWgJReL1YZyVSDe3k_-L1uuk2lEgRXZM08OT-Mw/edit) |
 | [Open-source СУБД глазами обычного программиста. Евгений Климов, Sailplay](https://youtu.be/_je9o0Y03rs) | 1:25:39 | [:notebook:](https://speakerdeck.com/slach/opensource-subd-ghlazami-obychnogho-proghrammista) |
 
 
