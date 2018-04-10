@@ -10,6 +10,7 @@
 ## Содержание
 
 * [События](#%D0%A1%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F)
+  * [Moscow Python Meetup № 54](#moscow-python-meetup--54)
   * [rannts\#19](#rannts19)
   * [Kyiv\.py \#23](#kyivpy-23)
   * [PyCon Belarus 2018](#pycon-belarus-2018)
@@ -22,6 +23,19 @@
 
 
 # События
+
+## Moscow Python Meetup № 54
+
+Событие: http://www.moscowpython.ru/meetup/54/
+
+Дата: **22 марта 2018**
+
+| | | |
+| --- | :---: | --- |
+| [Django-rester, как легкая альтернатива django-rest-framework](https://youtu.be/qY-BjTaeEtU) Александр Ковалёв (Яндекс) | 32:19 | [:notebook:](https://speakerdeck.com/moscowdjango/django-rester-kak-lieghkaia-al-tiernativa-django-rest-framework) |
+| [Начинаем Django приложение правильно](https://youtu.be/vDshhQnXSfM) Никита Соболев (Wemake.Services) | 37:01 | [:notebook:](https://speakerdeck.com/moscowdjango/nachinaiem-django-prilozhieniie-pravil-no) |
+| [Разработка API ClickHouse для Рамблер/топ-100](https://youtu.be/qQ5dqHDHzg8) Виталий Самигуллин (Rambler&Co) | 27:05 | [:notebook:](https://speakerdeck.com/moscowdjango/top-100) |
+
 
 ## rannts#19
 
