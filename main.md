@@ -14,6 +14,19 @@
 
 # События
 
+## Moscow Python Meetup № 55
+
+Событие: http://www.moscowpython.ru/meetup/55/
+
+Дата: **24 апреля 2018**
+
+| | | |
+| --- | :---: | --- |
+| [SimplePEG и Tchaikovsky - универсальная валидация](https://youtu.be/IrF8qKnrxZQ) Алексей Охрименко (Senior JavaScript Developer at IPONWEB) | 42:18 | [:notebook:](https://speakerdeck.com/moscowdjango/simplepeg-i-tchaikovsky-univiersal-naia-validatsiia) |
+| [Производительность, читаемость, скорость разработки. Как Python помог нам усидеть на трех стульях.](https://youtu.be/aQBv_K89VyI) Павел Смирнов (Яндекс) | 25:49 | [:notebook:](https://speakerdeck.com/moscowdjango/proizvoditiel-nost-chitaiemost-skorost-razrabotki-kak-python-pomogh-nam-usidiet-na-triekh-stul-iakh) |
+| [Стэк для машинного обучения на исходном коде](https://youtu.be/uP20opR8j0w) Вадим Марковцев (Lead Engineer, Machine Learning at Sourced.Tech) | 49:06 | [:notebook:](https://speakerdeck.com/moscowdjango/stek-dlia-mashinnogho-obuchieniia-na-iskhodnom-kodie) |
+
+
 ## Moscow Python Meetup № 54
 
 Событие: http://www.moscowpython.ru/meetup/54/
