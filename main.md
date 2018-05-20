@@ -27,6 +27,19 @@
 | [Стэк для машинного обучения на исходном коде](https://youtu.be/uP20opR8j0w) Вадим Марковцев (Lead Engineer, Machine Learning at Sourced.Tech) | 49:06 | [:notebook:](https://speakerdeck.com/moscowdjango/stek-dlia-mashinnogho-obuchieniia-na-iskhodnom-kodie) |
 
 
+## PiterPy Meetup #4
+
+Событие: https://piterpy.timepad.ru/event/666469/
+
+Дата: **10 апреля 2018**
+
+| | | |
+| --- | :---: | --- |
+| [Роль питониста в создании шоу, Сергей Гамалий](https://youtu.be/6D6dmun-GS4) | 56:55 | |
+| [Django Inside Out, Михаил Краснов](https://youtu.be/4-iEoN5jK-8) | 39:49 | |
+| [Contribute to CPython, Дмитрий Алимов](https://youtu.be/pN66VuaKDjk) | 13:13 | |
+
+
 ## Moscow Python Meetup № 54
 
 Событие: http://www.moscowpython.ru/meetup/54/
