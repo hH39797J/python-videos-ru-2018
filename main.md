@@ -37,7 +37,7 @@
 | --- | :---: | --- |
 | [Роль питониста в создании шоу, Сергей Гамалий](https://youtu.be/6D6dmun-GS4) | 56:55 | |
 | [Django Inside Out, Михаил Краснов](https://youtu.be/4-iEoN5jK-8) | 39:49 | |
-| [Contribute to CPython, Дмитрий Алимов](https://youtu.be/pN66VuaKDjk) | 13:13 | |
+| [Contribute to CPython, Дмитрий Алимов](https://youtu.be/pN66VuaKDjk) | 13:13 | [:notebook:](https://speakerdeck.com/delimitry/contribute-to-cpython) |
 
 
 ## Moscow Python Meetup № 54
@@ -134,7 +134,7 @@
 | --- | :---: | --- |
 | [Pure Python event-driven crawler, Фил Кулин](https://youtu.be/XpuW_N-9994) | 45:14 | |
 | [Коммит-мессаджи: гайды и реальность, Николай Стародубцев](https://youtu.be/TpjSeN8_Yp4) | 43:41 | |
-| [Лайтнинги: Melulza & Poem Generator](https://youtu.be/sp1wdc9gLvk) Стёпа Заступов, Дима Алимов | 18:02 | |
+| [Лайтнинги: Melulza, Степан Заступов / Buzzword poem generator in Python, Дмитрий Алимов](https://youtu.be/sp1wdc9gLvk) | 18:02 | [:notebook:](https://speakerdeck.com/delimitry/buzzword-poem-generator-in-python)|
 
 
 ## Python Meetup Chelyabinsk #2
