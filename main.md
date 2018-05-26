@@ -134,7 +134,7 @@
 | --- | :---: | --- |
 | [Pure Python event-driven crawler, Фил Кулин](https://youtu.be/XpuW_N-9994) | 45:14 | |
 | [Коммит-мессаджи: гайды и реальность, Николай Стародубцев](https://youtu.be/TpjSeN8_Yp4) | 43:41 | |
-| [Лайтнинги: Melulza, Степан Заступов / Buzzword poem generator in Python, Дмитрий Алимов](https://youtu.be/sp1wdc9gLvk) | 18:02 | [:notebook:](https://speakerdeck.com/delimitry/buzzword-poem-generator-in-python)|
+| [Лайтнинги: Melulza & Poem Generator](https://youtu.be/sp1wdc9gLvk) Степан Заступов & Дмитрий Алимов | 18:02 | [:notebook:](https://speakerdeck.com/delimitry/buzzword-poem-generator-in-python)|
 
 
 ## Python Meetup Chelyabinsk #2
