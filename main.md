@@ -14,6 +14,21 @@
 
 # События
 
+## Python Meetup Chelyabinsk #3
+
+Событие: https://pychel.timepad.ru/event/698090/
+
+Дата: **12 мая 2018**
+
+| | | |
+| --- | :---: | --- |
+| [Боты в Telegram: просто о простом. Илья Пятницкий, Napoleon IT](https://youtu.be/OMVcH3BU0Pw) | 14:46 | [:notebook:](https://speakerdeck.com/pychel/il-ia-piatnitskii-boty-v-telegram-prosto-o-prostom) |
+| ~~Павел Злыгостев — Деплоим наше Python-приложение~~ | | |
+| [Аутентификация без состояния (JSON Web Tokens). Игорь Шевченко, Antida software](https://youtu.be/GuwmlHejqCg) | 29:41 | [:notebook:](https://igor-shevchenko.github.io/stateless-auth/#) |
+| [Основные принципы микросервисной архитектуры в ЦИАН. Валентина Худякова, ЦИАН](https://youtu.be/snBhix8knV4) | 23:14 | [:notebook:](https://speakerdeck.com/pychel/valientina-khudiakova-osnovnyie-printsipy-mikrosiervisnoi-arkhitiektury-v-tsian) |
+| ~~Вячеслав Безбородов — Мастер-класс «Асинхронный веб сервер и PostgreSQL: практический подход»~~ | | |
+
+
 ## Moscow Python Meetup № 55
 
 Событие: http://www.moscowpython.ru/meetup/55/
