@@ -10,6 +10,7 @@
 ## Содержание
 
 * [События](#%D0%A1%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F)
+  * [Moscow Python Meetup № 56](#moscow-python-meetup--56)
   * [Python Meetup Chelyabinsk \#3](#python-meetup-chelyabinsk-3)
   * [Moscow Python Meetup № 55](#moscow-python-meetup--55)
   * [PiterPy Meetup \#4](#piterpy-meetup-4)
@@ -26,6 +27,19 @@
 
 
 # События
+
+## Moscow Python Meetup № 56
+
+Событие: http://www.moscowpython.ru/meetup/56/
+
+Дата: **22 мая 2018**
+
+| | | |
+| --- | :---: | --- |
+| [Централизованная система управления настройками в ЦИАН](https://youtu.be/t1Ix13v2SJU) Дмитрий Жильцов (ЦИАН) | 26:46 | [:notebook:](https://speakerdeck.com/moscowdjango/tsientralizovannaia-sistiema-upravlieniia-nastroikami-v-tsian) |
+| [Сборка приложений на Python](https://youtu.be/xAhdgsdI-qQ) Евгений Ильин (МАИ) | 25:40 | [:notebook:](https://speakerdeck.com/moscowdjango/sborka-prilozhienii-na-python) |
+| [Python для микроконтроллеров](https://youtu.be/NisbuMbgRFc) Виктор Паперно (МТУ МИРЭА, студент) | 32:02 | [:notebook:](https://speakerdeck.com/moscowdjango/python-dlia-mikrokontrollierov) |
+
 
 ## Python Meetup Chelyabinsk #3
 
