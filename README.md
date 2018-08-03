@@ -81,6 +81,21 @@
 | [Yuriy Senko - Goodbye cron, hello Airflow](https://youtu.be/RjOSXjuwyJA) | 48:28 | [:notebook:](https://www.slideshare.net/secret/BsignoDgAU5saz) |
 | [Paul Colomiets - Peer to peer file synchronization for your apps](https://youtu.be/gjNBrH00so4) | 40:16 | [:notebook:](https://tailhook.github.io/ciruela-presentation/#/initial) |
 
+*29 апреля 2018 (ВС)*
+
+| | | |
+| --- | :---: | --- |
+| [Abhishek Kapatkar - Nim for Python Programmers](https://youtu.be/o9XgPKYlhX4) | 38:53 | [:notebook:](https://slides.com/akapatkar/nim-for-python-programmers#/) |
+| [Ulises Reyes - From beta to a world-class SaaS](https://youtu.be/yWGtC3m4jjI) | 52:01 | |
+| [Andrii Gakhov - An Introduction to Time Series Forecasting with Python](https://youtu.be/unsIhKVWydE) | 55:56 | [:notebook:](https://github.com/gakhov/pycon-ua-2018/blob/master/slides/gakhov-time-series-forecasting-with-python.pdf) [:octocat:](https://github.com/gakhov/pycon-ua-2018) |
+| [Max Klymyshyn - Property-based tests: why I was so wrong about testing](https://youtu.be/VSTtHGWiZUo) | 21:37 | |
+| [Dmitry Chaplinsky - Practical cases of using NLP](https://youtu.be/Oc3LlM6KOk0) | 38:36 | |
+| [Andrew Svetlov - The current state and future of asyncio](https://youtu.be/A0sr5eY1JVM) | 46:58 | [:notebook:](https://asvetlov.github.io/ua-pycon-2018/#/) |
+| ~~Vitaliy Kucheryaviy - Superfast development with Django Prototyper~~ | | | 
+| [Vladimir Kirillov - Ur/web: web development with one language or what to expect from mypy](https://youtu.be/gnFJFV90YTc) | 39:14 | |
+| ~~Marek Bleschke - Python Type Hints in practice - is it worth it?~~ | | | 
+| [Ivan Levkivskyi - mypy: static types in Python](https://youtu.be/WbdFXxNdSgc) | 54:00 | [:notebook:](https://www.dropbox.com/s/omma003lj31amsh/talk_new_mypy.pdf?dl=0) |
+
 
 ## Moscow Python Meetup № 55
 
