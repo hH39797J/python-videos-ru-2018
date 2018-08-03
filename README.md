@@ -12,6 +12,7 @@
 * [События](#%D0%A1%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F)
   * [Moscow Python Meetup № 56](#moscow-python-meetup--56)
   * [Python Meetup Chelyabinsk \#3](#python-meetup-chelyabinsk-3)
+  * [PyCon Ukraine 2018](#pycon-ukraine-2018)
   * [Moscow Python Meetup № 55](#moscow-python-meetup--55)
   * [PiterPy Meetup \#4](#piterpy-meetup-4)
   * [Moscow Python Meetup № 54](#moscow-python-meetup--54)
@@ -54,6 +55,31 @@
 | [Аутентификация без состояния (JSON Web Tokens). Игорь Шевченко, Antida software](https://youtu.be/GuwmlHejqCg) | 29:41 | [:notebook:](https://igor-shevchenko.github.io/stateless-auth/#) |
 | [Основные принципы микросервисной архитектуры в ЦИАН. Валентина Худякова, ЦИАН](https://youtu.be/snBhix8knV4) | 23:14 | [:notebook:](https://speakerdeck.com/pychel/valientina-khudiakova-osnovnyie-printsipy-mikrosiervisnoi-arkhitiektury-v-tsian) |
 | ~~Вячеслав Безбородов — Мастер-класс «Асинхронный веб сервер и PostgreSQL: практический подход»~~ | | |
+
+
+## PyCon Ukraine 2018
+
+Событие: https://2018.uapycon.org/
+
+Дата: **28-29 апреля 2018**
+
+*28 апреля 2018 (СБ)*
+
+| | | |
+| --- | :---: | --- |
+| [Stéphane Wirtel — Python loves your contributions](https://youtu.be/aOW8HNDcGok) | 41:14 | [:notebook:](https://speakerdeck.com/matrixise/python-loves-your-contributions) |
+| ~~Itay Weiss — Talk about the differences between the three implementations — CPython, Grumpy, PyPy~~ | | [:notebook:](https://github.com/itaywss/pycon/blob/master/cpython_pypy_grumpy_how_when_why/case_study.pdf) [:octocat:](https://github.com/itaywss/pycon/tree/master/cpython_pypy_grumpy_how_when_why) | 
+| ~~Moisés Guimarães — Understanding SSL/TLS connections with Python wolfssl~~ | | |
+| [Vitaliy Androsenko / Andrey Kobyshev - The hell and the paradise of microservices in a SaaS system](https://youtu.be/u7mxwl8UZMY) | 44:53 | |
+| ~~Vitaly Haritonsky - How To Cook Celery~~ | | |
+| [Arkadiusz Adamski - Automating banner generation using Python and the popular graphic editor](https://youtu.be/uFOaCA0c5OU) | 22:08 | |
+| [Nikolay Novik — Verification of Concurrent and Distributed Systems](https://youtu.be/gRr9ymtAN6E) | 45:01 | [:notebook:](https://github.com/jettify/pyconua2018/blob/master/slides.pdf) |
+| [Roman Prykhodchenko - Load distribution in heterogeneous microservice environments](https://youtu.be/Y40sC4omK-E) | 42:38 | |
+| [Mikhail Kashkin - Python Blockchain development](https://youtu.be/t-M10LRMpOc) | 49:21 | |
+| [Oleksandr Tarasenko - How to separate frontend from a highload python project with no problems](https://youtu.be/6T1NzXVRlqs) | 45:28 | [:notebook:](https://www.slideshare.net/AlexanderTarasenko1/how-to-separate-frontend-from-a-highload-python-project-with-no-problems-pycon-ua-2018) |
+| [Taras Voinarovskyi — Binary data in Python with a bit of C spice on top](https://youtu.be/hCINaUaAk_o) | 41:09 | [:notebook:](https://slides.com/drizzt1991/binary-data-in-python#/) |
+| [Yuriy Senko - Goodbye cron, hello Airflow](https://youtu.be/RjOSXjuwyJA) | 48:28 | [:notebook:](https://www.slideshare.net/secret/BsignoDgAU5saz) |
+| [Paul Colomiets - Peer to peer file synchronization for your apps](https://youtu.be/gjNBrH00so4) | 40:16 | [:notebook:](https://tailhook.github.io/ciruela-presentation/#/initial) |
 
 
 ## Moscow Python Meetup № 55
