@@ -14,6 +14,19 @@
 
 # События
 
+## Moscow Python Meetup № 57
+
+Событие: http://www.moscowpython.ru/meetup/57/
+
+Дата: **26 июня 2018**
+
+| | | |
+| --- | :---: | --- |
+| [Алгоритм Swivel и его применения](https://youtu.be/g3vsayMXjjE) Константин Славнов (source{d}, Junior Engineer, Machine Learning) | 38:44 | [:notebook:](https://speakerdeck.com/moscowdjango/alghoritm-swivel-i-iegho-primienieniia) |
+| [Монолит + микросервисы = любовь](https://youtu.be/mKp7-hWPJb4) Максим Филипенко (Marilyn, разработчик) | 26:25 | [:notebook:](https://speakerdeck.com/moscowdjango/monolit-plus-mikrosiervisy-equals-liubov) |
+| [Асинхронное программирование в Python](https://youtu.be/OEFsdk1tqAU) Алексей Кузьмин (технический руководитель, Domclick) | 28:34 | [:notebook:](https://speakerdeck.com/moscowdjango/asinkhronnoie-proghrammirovaniie-v-python) |
+
+
 ## Moscow Python Meetup № 56
 
 Событие: http://www.moscowpython.ru/meetup/56/
