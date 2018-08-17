@@ -24,7 +24,7 @@
 
 | | | |
 | --- | :---: | --- |
-| ~~Asyncio сегодня и завтра — Юрий Селиванов (EdgeDB, asyncio)~~ | | |
+| [Юрий Селиванов, EdgeDB, Asyncio «Asyncio сегодня и завтра»](https://www.youtube.com/watch?v=3rSAtD2gKQE) | 1:06:06 | |
 | [Melanie Warrick, Google «Reinforcement»](https://www.youtube.com/watch?v=pggEazy1dh0) | 48:42 | |
 | [Christian Heimes, Red Hat «SSLError, now what?»](https://www.youtube.com/watch?v=0r0XhzPHRAw) | 57:18 | |
 | [Андрей Светлов, Python Core Developer «Aiohttp от автора»](https://www.youtube.com/watch?v=5NrnBu1vcKo) | 41:24 | |
@@ -40,7 +40,7 @@
 
 | | | |
 | --- | :---: | --- |
-| ~~Technical Debt and Python — Kate Heddleston (Shift)~~ | | |
+| [Kate Heddleston, Shift «Technical Debt in Python»](https://www.youtube.com/watch?v=kYxLdctzyjE) | 44:10 | |
 | [Stephan Jaensch, Yelp «Type annotations with large(r) codebases»](https://www.youtube.com/watch?v=UVAyBDe0--s) | 43:07 | |
 | [Ling Zhang, Aiden.ai «NLP to Discover Rich Insights from Massive Noisy Text»](https://www.youtube.com/watch?v=Jmoe3f0i3w0) | 28:12 | |
 | [Елена Никитина, Система «Сделано на коленке: как из парсера получился полноценный проект»](https://www.youtube.com/watch?v=HoZntJ4HQTk) | 28:49 | |
