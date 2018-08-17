@@ -24,17 +24,17 @@
 
 | | | |
 | --- | :---: | --- |
-| [Юрий Селиванов, EdgeDB, Asyncio «Asyncio сегодня и завтра»](https://www.youtube.com/watch?v=3rSAtD2gKQE) | 1:06:06 | |
+| [Юрий Селиванов, EdgeDB, Asyncio «Asyncio сегодня и завтра»](https://www.youtube.com/watch?v=3rSAtD2gKQE) | 1:06:06 | [:notebook:](https://speakerdeck.com/1st1/asyncio-today-and-tomorrow) |
 | [Melanie Warrick, Google «Reinforcement»](https://www.youtube.com/watch?v=pggEazy1dh0) | 48:42 | |
-| [Christian Heimes, Red Hat «SSLError, now what?»](https://www.youtube.com/watch?v=0r0XhzPHRAw) | 57:18 | |
-| [Андрей Светлов, Python Core Developer «Aiohttp от автора»](https://www.youtube.com/watch?v=5NrnBu1vcKo) | 41:24 | |
+| [Christian Heimes, Red Hat «SSLError, now what?»](https://www.youtube.com/watch?v=0r0XhzPHRAw) | 57:18 | [:notebook:](https://speakerdeck.com/tiran/pycon-russia-2018-sslerror-now-what) |
+| [Андрей Светлов, Python Core Developer «Aiohttp от автора»](https://www.youtube.com/watch?v=5NrnBu1vcKo) | 41:24 | [:notebook:](https://asvetlov.github.io/pycon-ru-2018/#/) |
 | [Виталий Давыдов, POTEHA DEVELOPERS «Serverless + Python на примере AWS Lambda»](https://www.youtube.com/watch?v=jKuOQoVHKmQ) | 40:30 | |
 | [Дмитрий Ходаков, Авито «Tornado vs Aiohttp»](https://www.youtube.com/watch?v=BbyVHtsIM1M) | 37:10 | |
 | [Alejandro Saucedo, Eigen Technologies «Industrial Data Pipelines with Python and Airflow»](https://www.youtube.com/watch?v=4HvctU0UHGg) | 44:32 | |
 | [Алексей Кузьмин, ДомКлик «Асинхронность изнутри»](https://www.youtube.com/watch?v=pZkerqks43Y) | 33:06 | |
 | [Марина Камалова, Яндекс «Архитектура чат-бота»](https://www.youtube.com/watch?v=SQgyo90k_jg) | 38:50 | |
 | [Антон Патрушев, Spherical «Как перестать заботиться об окружении и начать жить»](https://www.youtube.com/watch?v=eQT51_iNuVE) | 28:28 | |
-| [Денис Катаев, Tinkoff.ru «SQLAlchemy: Python vs Raw SQL»](https://www.youtube.com/watch?v=jUGK-CtM-Mk) | 33:56 | |
+| [Денис Катаев, Tinkoff.ru «SQLAlchemy: Python vs Raw SQL»](https://www.youtube.com/watch?v=jUGK-CtM-Mk) | 33:56 | [:notebook:](http://slides.com/kataev/sqlalchemy-pycon/#/) |
 
 *23 июля 2018 (ПН)*
 
@@ -50,7 +50,7 @@
 | [Максим Мазаев, ЦИАН «Как поддерживать согласованность API в микросервисной архитектуре»](https://www.youtube.com/watch?v=ANDGRmKKEG0) | 34:43 | |
 | [Андрей Власовских, JetBrains «7 советов по редактированию кода в PyCharm»](https://www.youtube.com/watch?v=FW3_OPBxk2s) | 43:21 | |
 | [Александр Кошелев, Яндекс «Буферизация записи в базу»](https://www.youtube.com/watch?v=_Q_KtFupbp8) | 40:48 | |
-| [Андрей Солдатенко, Toptal «Спортивное программирование на Python»](https://www.youtube.com/watch?v=evA8Xja_pTE) | 29:11 | |
+| [Андрей Солдатенко, Toptal «Спортивное программирование на Python»](https://www.youtube.com/watch?v=evA8Xja_pTE) | 29:11 | [:notebook:](https://www.dropbox.com/s/s0jr485d51tmpl5/Sport%20programming.pdf?dl=0) |
 | [Сергей Карпович, Вадим Березкин, mos.ru «Как сделать удобную для пользователей поисковую систему»](https://www.youtube.com/watch?v=Edelnw2kPhA) | 39:20 | |
 | [Вадим Пуштаев, Mail.Ru «Юнит-тесты в проектах Поиска mail.ru»](https://www.youtube.com/watch?v=npJVGhmQSU4) | 41:56 | |
 | ~~Core Development Panel — Юрий Селиванов, Андрей Светлов и Christian Heimes~~ | | |
