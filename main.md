@@ -64,10 +64,10 @@
 
 | | | |
 | --- | :---: | --- |
-| [Ода на смерть PGP, Леонид Евдокимов](https://www.youtube.com/watch?v=_0T4ERPKXyc&list=PLQTGSfnaYlCusnBej5qqzgLVMQPmKbdnD) | 11:52 | |
-| [CPython logo, Дмитрий Алимов](https://www.youtube.com/watch?v=_Jb1zxt3k8Y&index=2&list=PLQTGSfnaYlCusnBej5qqzgLVMQPmKbdnD) | 10:19 | |
-| [Окей гугл, как построить процессы ИБ? Константин Сазонов](https://www.youtube.com/watch?v=I4UO3vQ8O6Q&index=3&list=PLQTGSfnaYlCusnBej5qqzgLVMQPmKbdnD) | 53:38 | |
-| [Разбираем Python-монолит на пакет с пакетами, Никита Воронов](https://www.youtube.com/watch?v=quuzV83OZg4&list=PLQTGSfnaYlCusnBej5qqzgLVMQPmKbdnD&index=4) | 52:22 | |
+| [Разбираем Python-монолит на пакет с пакетами, Никита Воронов](https://youtu.be/quuzV83OZg4) | 52:22 | |
+| [Окей гугл, как построить процессы ИБ? Константин Сазонов](https://youtu.be/I4UO3vQ8O6Q) | 53:38 | |
+| [CPython logo, Дмитрий Алимов](https://youtu.be/_Jb1zxt3k8Y) | 10:19 | [:notebook:](https://speakerdeck.com/delimitry/cpython-logo) |
+| [Ода на смерть PGP, Леонид Евдокимов](https://youtu.be/_0T4ERPKXyc) | 11:52 | |
 
 
 ## Moscow Python Meetup № 57
