@@ -56,6 +56,20 @@
 | ~~Core Development Panel — Юрий Селиванов, Андрей Светлов и Christian Heimes~~ | | |
 
 
+## PiterPy Meetup #6
+
+Событие: https://piterpy.timepad.ru/event/666491/
+
+Дата: **29 июня 2018**
+
+| | | |
+| --- | :---: | --- |
+| [Ода на смерть PGP, Леонид Евдокимов](https://www.youtube.com/watch?v=_0T4ERPKXyc&list=PLQTGSfnaYlCusnBej5qqzgLVMQPmKbdnD) | 11:52 | |
+| [CPython logo, Дмитрий Алимов](https://www.youtube.com/watch?v=_Jb1zxt3k8Y&index=2&list=PLQTGSfnaYlCusnBej5qqzgLVMQPmKbdnD) | 10:19 | |
+| [Окей гугл, как построить процессы ИБ? Константин Сазонов](https://www.youtube.com/watch?v=I4UO3vQ8O6Q&index=3&list=PLQTGSfnaYlCusnBej5qqzgLVMQPmKbdnD) | 53:38 | |
+| [Разбираем Python-монолит на пакет с пакетами, Никита Воронов](https://www.youtube.com/watch?v=quuzV83OZg4&list=PLQTGSfnaYlCusnBej5qqzgLVMQPmKbdnD&index=4) | 52:22 | |
+
+
 ## Moscow Python Meetup № 57
 
 Событие: http://www.moscowpython.ru/meetup/57/
