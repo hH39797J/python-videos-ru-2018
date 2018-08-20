@@ -11,6 +11,7 @@
 
 * [События](#%D0%A1%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F)
   * [PyCon Russia 2018](#pycon-russia-2018)
+  * [PiterPy Meetup \#6](#piterpy-meetup-6)
   * [Moscow Python Meetup № 57](#moscow-python-meetup--57)
   * [Moscow Python Meetup № 56](#moscow-python-meetup--56)
   * [Python Meetup Chelyabinsk \#3](#python-meetup-chelyabinsk-3)
@@ -71,6 +72,20 @@
 | [Сергей Карпович, Вадим Березкин, mos.ru «Как сделать удобную для пользователей поисковую систему»](https://www.youtube.com/watch?v=Edelnw2kPhA) | 39:20 | |
 | [Вадим Пуштаев, Mail.Ru «Юнит-тесты в проектах Поиска mail.ru»](https://www.youtube.com/watch?v=npJVGhmQSU4) | 41:56 | |
 | ~~Core Development Panel — Юрий Селиванов, Андрей Светлов и Christian Heimes~~ | | |
+
+
+## PiterPy Meetup #6
+
+Событие: https://piterpy.timepad.ru/event/666491/
+
+Дата: **29 июня 2018**
+
+| | | |
+| --- | :---: | --- |
+| [Разбираем Python-монолит на пакет с пакетами, Никита Воронов](https://youtu.be/quuzV83OZg4) | 52:22 | |
+| [Окей гугл, как построить процессы ИБ? Константин Сазонов](https://youtu.be/I4UO3vQ8O6Q) | 53:38 | |
+| [CPython logo, Дмитрий Алимов](https://youtu.be/_Jb1zxt3k8Y) | 10:19 | [:notebook:](https://speakerdeck.com/delimitry/cpython-logo) |
+| [Ода на смерть PGP, Леонид Евдокимов](https://youtu.be/_0T4ERPKXyc) | 11:52 | |
 
 
 ## Moscow Python Meetup № 57
