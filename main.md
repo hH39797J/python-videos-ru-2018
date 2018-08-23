@@ -56,6 +56,19 @@
 | ~~Core Development Panel — Юрий Селиванов, Андрей Светлов и Christian Heimes~~ | | |
 
 
+# Moscow Python Meetup № 58
+
+Событие: http://www.moscowpython.ru/meetup/58/
+
+Дата: **20 июля 2018**
+
+| | | |
+| --- | :---: | --- |
+| [Engineering with Python](https://youtu.be/X07fFo9Eenc) Антон Кавалеров (Siemens, R&D Engineer) | 51:05 | [:notebook:](https://speakerdeck.com/moscowdjango/engineering-with-python) |
+| [Ускоряем производительность Python-клиента Redis, используя Golang](https://youtu.be/DPGXcGX4Kr4) Юрий Букаткин (Программный регион, Руководитель группы разработки) | 22:09 | [:notebook:](https://speakerdeck.com/moscowdjango/uskoriaiem-proizvoditiel-nost-python-kliienta-redis-ispol-zuia-golang) |
+| [PyRe: еще один type checker](https://youtu.be/-Lz81ex3jP8) Григорий Петров (Технический евангелист Voximplant и MoscowPython) | 47:10 | [:notebook:](https://speakerdeck.com/moscowdjango/pyre-ieshchie-odin-type-checker) |
+
+
 ## PiterPy Meetup #6
 
 Событие: https://piterpy.timepad.ru/event/666491/
