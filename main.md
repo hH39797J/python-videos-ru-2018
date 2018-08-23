@@ -56,7 +56,7 @@
 | ~~Core Development Panel — Юрий Селиванов, Андрей Светлов и Christian Heimes~~ | | |
 
 
-# Moscow Python Meetup № 58
+## Moscow Python Meetup № 58
 
 Событие: http://www.moscowpython.ru/meetup/58/
 
