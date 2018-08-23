@@ -11,6 +11,7 @@
 
 * [События](#%D0%A1%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F)
   * [PyCon Russia 2018](#pycon-russia-2018)
+  * [Moscow Python Meetup № 58](#moscow-python-meetup--58)
   * [PiterPy Meetup \#6](#piterpy-meetup-6)
   * [Moscow Python Meetup № 57](#moscow-python-meetup--57)
   * [Moscow Python Meetup № 56](#moscow-python-meetup--56)
@@ -42,17 +43,17 @@
 
 | | | |
 | --- | :---: | --- |
-| [Юрий Селиванов, EdgeDB, Asyncio «Asyncio сегодня и завтра»](https://www.youtube.com/watch?v=3rSAtD2gKQE) | 1:06:06 | [:notebook:](https://speakerdeck.com/1st1/asyncio-today-and-tomorrow) |
-| [Melanie Warrick, Google «Reinforcement»](https://www.youtube.com/watch?v=pggEazy1dh0) | 48:42 | |
-| [Christian Heimes, Red Hat «SSLError, now what?»](https://www.youtube.com/watch?v=0r0XhzPHRAw) | 57:18 | [:notebook:](https://speakerdeck.com/tiran/pycon-russia-2018-sslerror-now-what) |
-| [Андрей Светлов, Python Core Developer «Aiohttp от автора»](https://www.youtube.com/watch?v=5NrnBu1vcKo) | 41:24 | [:notebook:](https://asvetlov.github.io/pycon-ru-2018/#/) |
-| [Виталий Давыдов, POTEHA DEVELOPERS «Serverless + Python на примере AWS Lambda»](https://www.youtube.com/watch?v=jKuOQoVHKmQ) | 40:30 | |
-| [Дмитрий Ходаков, Авито «Tornado vs Aiohttp»](https://www.youtube.com/watch?v=BbyVHtsIM1M) | 37:10 | |
-| [Alejandro Saucedo, Eigen Technologies «Industrial Data Pipelines with Python and Airflow»](https://www.youtube.com/watch?v=4HvctU0UHGg) | 44:32 | |
-| [Алексей Кузьмин, ДомКлик «Асинхронность изнутри»](https://www.youtube.com/watch?v=pZkerqks43Y) | 33:06 | |
-| [Марина Камалова, Яндекс «Архитектура чат-бота»](https://www.youtube.com/watch?v=SQgyo90k_jg) | 38:50 | |
-| [Антон Патрушев, Spherical «Как перестать заботиться об окружении и начать жить»](https://www.youtube.com/watch?v=eQT51_iNuVE) | 28:28 | |
-| [Денис Катаев, Tinkoff.ru «SQLAlchemy: Python vs Raw SQL»](https://www.youtube.com/watch?v=jUGK-CtM-Mk) | 33:56 | [:notebook:](http://slides.com/kataev/sqlalchemy-pycon/#/) |
+| [Юрий Селиванов, EdgeDB, Asyncio «Asyncio сегодня и завтра»](https://youtu.be/3rSAtD2gKQE) | 1:06:06 | [:notebook:](https://speakerdeck.com/1st1/asyncio-today-and-tomorrow) |
+| [Melanie Warrick, Google «Reinforcement»](https://youtu.be/pggEazy1dh0) | 48:41 | |
+| [Christian Heimes, Red Hat «SSLError, now what?»](https://youtu.be/0r0XhzPHRAw) | 57:18 | [:notebook:](https://speakerdeck.com/tiran/pycon-russia-2018-sslerror-now-what) |
+| [Андрей Светлов, Python Core Developer «Aiohttp от автора»](https://youtu.be/5NrnBu1vcKo) | 41:24 | [:notebook:](https://asvetlov.github.io/pycon-ru-2018/#/) |
+| [Виталий Давыдов, POTEHA DEVELOPERS «Serverless + Python на примере AWS Lambda»](https://youtu.be/jKuOQoVHKmQ) | 40:29 | |
+| [Дмитрий Ходаков, Авито «Tornado vs Aiohttp»](https://youtu.be/BbyVHtsIM1M) | 37:10 | |
+| [Alejandro Saucedo, Eigen Technologies «Industrial Data Pipelines with Python and Airflow»](https://youtu.be/4HvctU0UHGg) | 44:31 | |
+| [Алексей Кузьмин, ДомКлик «Асинхронность изнутри»](https://youtu.be/pZkerqks43Y) | 33:06 | |
+| [Марина Камалова, Яндекс «Архитектура чат-бота»](https://youtu.be/SQgyo90k_jg) | 38:49 | |
+| [Антон Патрушев, Spherical «Как перестать заботиться об окружении и начать жить»](https://youtu.be/eQT51_iNuVE) | 28:28 | |
+| [Денис Катаев, Tinkoff.ru «SQLAlchemy: Python vs Raw SQL»](https://youtu.be/jUGK-CtM-Mk) | 33:55 | [:notebook:](http://slides.com/kataev/sqlalchemy-pycon/#/) |
 
 *23 июля 2018 (ПН)*
 
@@ -72,6 +73,19 @@
 | [Сергей Карпович, Вадим Березкин, mos.ru «Как сделать удобную для пользователей поисковую систему»](https://www.youtube.com/watch?v=Edelnw2kPhA) | 39:20 | |
 | [Вадим Пуштаев, Mail.Ru «Юнит-тесты в проектах Поиска mail.ru»](https://www.youtube.com/watch?v=npJVGhmQSU4) | 41:56 | |
 | ~~Core Development Panel — Юрий Селиванов, Андрей Светлов и Christian Heimes~~ | | |
+
+
+## Moscow Python Meetup № 58
+
+Событие: http://www.moscowpython.ru/meetup/58/
+
+Дата: **20 июля 2018**
+
+| | | |
+| --- | :---: | --- |
+| [Engineering with Python](https://youtu.be/X07fFo9Eenc) Антон Кавалеров (Siemens, R&D Engineer) | 51:05 | [:notebook:](https://speakerdeck.com/moscowdjango/engineering-with-python) |
+| [Ускоряем производительность Python-клиента Redis, используя Golang](https://youtu.be/DPGXcGX4Kr4) Юрий Букаткин (Программный регион, Руководитель группы разработки) | 22:09 | [:notebook:](https://speakerdeck.com/moscowdjango/uskoriaiem-proizvoditiel-nost-python-kliienta-redis-ispol-zuia-golang) [:octocat:](https://github.com/deslum/gopipe) |
+| [PyRe: еще один type checker](https://youtu.be/-Lz81ex3jP8) Григорий Петров (Технический евангелист Voximplant и MoscowPython) | 47:10 | [:notebook:](https://speakerdeck.com/moscowdjango/pyre-ieshchie-odin-type-checker) |
 
 
 ## PiterPy Meetup #6
