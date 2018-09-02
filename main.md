@@ -41,19 +41,19 @@
 
 | | | |
 | --- | :---: | --- |
-| [Kate Heddleston, Shift «Technical Debt in Python»](https://www.youtube.com/watch?v=kYxLdctzyjE) | 44:10 | |
-| [Stephan Jaensch, Yelp «Type annotations with large(r) codebases»](https://www.youtube.com/watch?v=UVAyBDe0--s) | 43:07 | |
-| [Ling Zhang, Aiden.ai «NLP to Discover Rich Insights from Massive Noisy Text»](https://www.youtube.com/watch?v=Jmoe3f0i3w0) | 28:12 | |
-| [Елена Никитина, Система «Сделано на коленке: как из парсера получился полноценный проект»](https://www.youtube.com/watch?v=HoZntJ4HQTk) | 28:49 | |
-| [Михаил Коробов, ScrapingHub «Машинное обучение для извлечения данных из веба»](https://www.youtube.com/watch?v=l11caoD_MFc) | 31:10 | |
-| [Евгений Слезко, Marilyn «Переход на SOA в существующем Python-проекте. Тяжеловато или ничего?»](https://www.youtube.com/watch?v=kB1tfn9c7Jg) | 39:07 | |
-| [Donald Whyte, Engineers Gate «High Performance Data Processing in Python»](https://www.youtube.com/watch?v=MKIrRYKJeAc) | 39:17 | |
-| [Максим Мазаев, ЦИАН «Как поддерживать согласованность API в микросервисной архитектуре»](https://www.youtube.com/watch?v=ANDGRmKKEG0) | 34:43 | |
-| [Андрей Власовских, JetBrains «7 советов по редактированию кода в PyCharm»](https://www.youtube.com/watch?v=FW3_OPBxk2s) | 43:21 | |
-| [Александр Кошелев, Яндекс «Буферизация записи в базу»](https://www.youtube.com/watch?v=_Q_KtFupbp8) | 40:48 | |
-| [Андрей Солдатенко, Toptal «Спортивное программирование на Python»](https://www.youtube.com/watch?v=evA8Xja_pTE) | 29:11 | [:notebook:](https://www.dropbox.com/s/s0jr485d51tmpl5/Sport%20programming.pdf?dl=0) |
-| [Сергей Карпович, Вадим Березкин, mos.ru «Как сделать удобную для пользователей поисковую систему»](https://www.youtube.com/watch?v=Edelnw2kPhA) | 39:20 | |
-| [Вадим Пуштаев, Mail.Ru «Юнит-тесты в проектах Поиска mail.ru»](https://www.youtube.com/watch?v=npJVGhmQSU4) | 41:56 | |
+| [Kate Heddleston, Shift «Technical Debt in Python»](https://youtu.be/kYxLdctzyjE) | 44:10 | |
+| [Stephan Jaensch, Yelp «Type annotations with large(r) codebases»](https://youtu.be/UVAyBDe0--s) | 43:07 | |
+| [Ling Zhang, Aiden.ai «NLP to Discover Rich Insights from Massive Noisy Text»](https://youtu.be/Jmoe3f0i3w0) | 28:12 | |
+| [Елена Никитина, Система «Сделано на коленке: как из парсера получился полноценный проект»](https://youtu.be/HoZntJ4HQTk) | 28:48 | |
+| [Михаил Коробов, ScrapingHub «Машинное обучение для извлечения данных из веба»](https://youtu.be/l11caoD_MFc) | 31:09 | |
+| [Евгений Слезко, Marilyn «Переход на SOA в существующем Python-проекте. Тяжеловато или ничего?»](https://youtu.be/kB1tfn9c7Jg) | 39:06 | |
+| [Donald Whyte, Engineers Gate «High Performance Data Processing in Python»](https://youtu.be/MKIrRYKJeAc) | 39:17 | |
+| [Максим Мазаев, ЦИАН «Как поддерживать согласованность API в микросервисной архитектуре»](https://youtu.be/ANDGRmKKEG0) | 34:42 | |
+| [Андрей Власовских, JetBrains «7 советов по редактированию кода в PyCharm»](https://youtu.be/FW3_OPBxk2s) | 43:20 | |
+| [Александр Кошелев, Яндекс «Буферизация записи в базу»](https://youtu.be/_Q_KtFupbp8) | 40:47 | |
+| [Андрей Солдатенко, Toptal «Спортивное программирование на Python»](https://youtu.be/evA8Xja_pTE) | 29:11 | [:notebook:](https://www.dropbox.com/s/s0jr485d51tmpl5/Sport%20programming.pdf?dl=0) |
+| [Сергей Карпович, Вадим Березкин, mos.ru «Как сделать удобную для пользователей поисковую систему»](https://youtu.be/Edelnw2kPhA) | 39:19 | |
+| [Вадим Пуштаев, Mail.Ru «Юнит-тесты в проектах Поиска mail.ru»](https://youtu.be/npJVGhmQSU4) | 41:56 | |
 | [Core Development Panel — Юрий Селиванов, Андрей Светлов и Christian Heimes](https://youtu.be/E0Gs7C-JctU) | 28:36 | |
 
 
