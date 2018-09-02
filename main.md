@@ -35,6 +35,7 @@
 | [Марина Камалова, Яндекс «Архитектура чат-бота»](https://youtu.be/SQgyo90k_jg) | 38:49 | |
 | [Антон Патрушев, Spherical «Как перестать заботиться об окружении и начать жить»](https://youtu.be/eQT51_iNuVE) | 28:28 | |
 | [Денис Катаев, Tinkoff.ru «SQLAlchemy: Python vs Raw SQL»](https://youtu.be/jUGK-CtM-Mk) | 33:55 | [:notebook:](http://slides.com/kataev/sqlalchemy-pycon/#/) |
+| [Lightning Talks](https://youtu.be/r76ky_xSe3A) | 18:24 | |
 
 *23 июля 2018 (ПН)*
 
@@ -53,7 +54,7 @@
 | [Андрей Солдатенко, Toptal «Спортивное программирование на Python»](https://www.youtube.com/watch?v=evA8Xja_pTE) | 29:11 | [:notebook:](https://www.dropbox.com/s/s0jr485d51tmpl5/Sport%20programming.pdf?dl=0) |
 | [Сергей Карпович, Вадим Березкин, mos.ru «Как сделать удобную для пользователей поисковую систему»](https://www.youtube.com/watch?v=Edelnw2kPhA) | 39:20 | |
 | [Вадим Пуштаев, Mail.Ru «Юнит-тесты в проектах Поиска mail.ru»](https://www.youtube.com/watch?v=npJVGhmQSU4) | 41:56 | |
-| ~~Core Development Panel — Юрий Селиванов, Андрей Светлов и Christian Heimes~~ | | |
+| [Core Development Panel — Юрий Селиванов, Андрей Светлов и Christian Heimes](https://youtu.be/E0Gs7C-JctU) | 28:36 | |
 
 
 ## Moscow Python Meetup № 58
