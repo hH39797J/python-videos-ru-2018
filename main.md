@@ -165,6 +165,18 @@
 | [Ivan Levkivskyi - mypy: static types in Python](https://youtu.be/WbdFXxNdSgc) | 54:00 | [:notebook:](https://www.dropbox.com/s/omma003lj31amsh/talk_new_mypy.pdf?dl=0) |
 
 
+## Minsk Python Meetup
+
+Событие: https://python-meetup.timepad.ru/event/682956/
+
+Дата: **25 апреля 2018**
+
+| | | |
+| --- | :---: | --- |
+| [Booster for aiohttp / Дмитрий Бураков / Wargaming](https://youtu.be/IFjbbIrqdPU) | 24:47 | |
+| [Автоматизация регрессионного тестирования в PandaDoc / Дмитрий Закуталин](https://youtu.be/Gwg7pUqJwH8) | 18:41 | |
+
+
 ## Moscow Python Meetup № 55
 
 Событие: http://www.moscowpython.ru/meetup/55/
