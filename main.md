@@ -14,6 +14,19 @@
 
 # События
 
+## Moscow Python Meetup № 59
+
+Событие: http://www.moscowpython.ru/meetup/59/
+
+Дата: **23 августа 2018**
+
+| | | |
+| --- | :---: | --- |
+| [Генетические алгоритмы](https://youtu.be/qtN-I7s4RQE) Глеб Ерофеев (Индивидуальный предприниматель) | 25:00 | [:notebook:](https://speakerdeck.com/moscowdjango/gienietichieskiie-alghoritmy) |
+| [Простые решения машинного обучения в задачах поиска](https://youtu.be/o9uIwIuZMR0) Сергей Карпович (Mos.ru, руководитель группы поиска) | 23:58 | [:notebook:](https://speakerdeck.com/moscowdjango/prostyie-rieshieniia-mashinnogho-obuchieniia-v-zadachakh-poiska) |
+| [Осваиваем pipenv](https://youtu.be/JNT1u3Ri3YY) Александр Хаёров (Ingram Micro Cloud) | 23:47 | [:notebook:](https://speakerdeck.com/moscowdjango/osvaivaiem-pipenv) |
+
+
 ## PyCon Russia 2018
 
 Событие: http://pycon.ru/2018/
