@@ -66,7 +66,7 @@
 | [Александр Кошелев, Яндекс «Буферизация записи в базу»](https://youtu.be/_Q_KtFupbp8) | 40:47 | |
 | [Андрей Солдатенко, Toptal «Спортивное программирование на Python»](https://youtu.be/evA8Xja_pTE) | 29:11 | [:notebook:](https://www.dropbox.com/s/s0jr485d51tmpl5/Sport%20programming.pdf?dl=0) |
 | [Сергей Карпович, Вадим Березкин, mos.ru «Как сделать удобную для пользователей поисковую систему»](https://youtu.be/Edelnw2kPhA) | 39:19 | |
-| [Вадим Пуштаев, Mail.Ru «Юнит-тесты в проектах Поиска mail.ru»](https://youtu.be/npJVGhmQSU4) | 41:56 | |
+| [Вадим Пуштаев, Mail.Ru «Юнит-тесты в проектах Поиска mail.ru»](https://youtu.be/npJVGhmQSU4) | 41:56 | [:notebook:](https://speakerdeck.com/vadimpushtaev/pycon-russia-2018-unit-testing) |
 | [Core Development Panel — Юрий Селиванов, Андрей Светлов и Christian Heimes](https://youtu.be/E0Gs7C-JctU) | 28:36 | |
 
 
