@@ -15,11 +15,11 @@
   * [Moscow Python Meetup № 58](#moscow-python-meetup--58)
   * [PiterPy Meetup \#6](#piterpy-meetup-6)
   * [Moscow Python Meetup № 57](#moscow-python-meetup--57)
-  * [Minsk Python Meetup](#minsk-python-meetup)
+  * [Minsk Python Meetup 30\.05\.2018](#minsk-python-meetup-30052018)
   * [Moscow Python Meetup № 56](#moscow-python-meetup--56)
   * [Python Meetup Chelyabinsk \#3](#python-meetup-chelyabinsk-3)
   * [PyCon Ukraine 2018](#pycon-ukraine-2018)
-  * [Minsk Python Meetup](#minsk-python-meetup-1)
+  * [Minsk Python Meetup 25\.04\.2018](#minsk-python-meetup-25042018)
   * [Moscow Python Meetup № 55](#moscow-python-meetup--55)
   * [PiterPy Meetup \#4](#piterpy-meetup-4)
   * [Moscow Python Meetup № 54](#moscow-python-meetup--54)
@@ -132,7 +132,7 @@
 | [Асинхронное программирование в Python](https://youtu.be/OEFsdk1tqAU) Алексей Кузьмин (технический руководитель, Domclick) | 28:34 | [:notebook:](https://speakerdeck.com/moscowdjango/asinkhronnoie-proghrammirovaniie-v-python) |
 
 
-## Minsk Python Meetup
+## Minsk Python Meetup 30.05.2018
 
 Событие: https://python-meetup.timepad.ru/event/642960/
 
@@ -214,7 +214,7 @@
 | [Ivan Levkivskyi - mypy: static types in Python](https://youtu.be/WbdFXxNdSgc) | 54:00 | [:notebook:](https://www.dropbox.com/s/omma003lj31amsh/talk_new_mypy.pdf?dl=0) |
 
 
-## Minsk Python Meetup
+## Minsk Python Meetup 25.04.2018
 
 Событие: https://python-meetup.timepad.ru/event/682956/
 
