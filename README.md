@@ -15,10 +15,11 @@
   * [Moscow Python Meetup № 58](#moscow-python-meetup--58)
   * [PiterPy Meetup \#6](#piterpy-meetup-6)
   * [Moscow Python Meetup № 57](#moscow-python-meetup--57)
+  * [Minsk Python Meetup](#minsk-python-meetup)
   * [Moscow Python Meetup № 56](#moscow-python-meetup--56)
   * [Python Meetup Chelyabinsk \#3](#python-meetup-chelyabinsk-3)
   * [PyCon Ukraine 2018](#pycon-ukraine-2018)
-  * [Minsk Python Meetup](#minsk-python-meetup)
+  * [Minsk Python Meetup](#minsk-python-meetup-1)
   * [Moscow Python Meetup № 55](#moscow-python-meetup--55)
   * [PiterPy Meetup \#4](#piterpy-meetup-4)
   * [Moscow Python Meetup № 54](#moscow-python-meetup--54)
@@ -87,7 +88,7 @@
 | [Александр Кошелев, Яндекс «Буферизация записи в базу»](https://youtu.be/_Q_KtFupbp8) | 40:47 | |
 | [Андрей Солдатенко, Toptal «Спортивное программирование на Python»](https://youtu.be/evA8Xja_pTE) | 29:11 | [:notebook:](https://www.dropbox.com/s/s0jr485d51tmpl5/Sport%20programming.pdf?dl=0) |
 | [Сергей Карпович, Вадим Березкин, mos.ru «Как сделать удобную для пользователей поисковую систему»](https://youtu.be/Edelnw2kPhA) | 39:19 | |
-| [Вадим Пуштаев, Mail.Ru «Юнит-тесты в проектах Поиска mail.ru»](https://youtu.be/npJVGhmQSU4) | 41:56 | |
+| [Вадим Пуштаев, Mail.Ru «Юнит-тесты в проектах Поиска mail.ru»](https://youtu.be/npJVGhmQSU4) | 41:56 | [:notebook:](https://speakerdeck.com/vadimpushtaev/pycon-russia-2018-unit-testing) |
 | [Core Development Panel — Юрий Селиванов, Андрей Светлов и Christian Heimes](https://youtu.be/E0Gs7C-JctU) | 28:36 | |
 
 
@@ -129,6 +130,20 @@
 | [Алгоритм Swivel и его применения](https://youtu.be/g3vsayMXjjE) Константин Славнов (source{d}, Junior Engineer, Machine Learning) | 38:44 | [:notebook:](https://speakerdeck.com/moscowdjango/alghoritm-swivel-i-iegho-primienieniia) |
 | [Монолит + микросервисы = любовь](https://youtu.be/mKp7-hWPJb4) Максим Филипенко (Marilyn, разработчик) | 26:25 | [:notebook:](https://speakerdeck.com/moscowdjango/monolit-plus-mikrosiervisy-equals-liubov) |
 | [Асинхронное программирование в Python](https://youtu.be/OEFsdk1tqAU) Алексей Кузьмин (технический руководитель, Domclick) | 28:34 | [:notebook:](https://speakerdeck.com/moscowdjango/asinkhronnoie-proghrammirovaniie-v-python) |
+
+
+## Minsk Python Meetup
+
+Событие: https://python-meetup.timepad.ru/event/642960/
+
+Дата: **30 мая 2018**
+
+| | | |
+| --- | :---: | --- |
+| [Telegram бот своими руками / Максим Усачев / PandaDoc](https://youtu.be/8Jltggv8mN4) | 59:20 | |
+| [Code Review to the Rescue / Андрей Свиридов / itransition](https://youtu.be/qADYWuy9IDg) | 1:16:26 | |
+| [Integration vs Composition / Иван Стяжкин / DataRobot](https://youtu.be/Ytbm1BfDGRg) | 30:24 | |
+| [Telegram and viber bots / Дмитрий Демидов / iTechArt](https://youtu.be/BVQgfOYMfvU) | 18:19 | |
 
 
 ## Moscow Python Meetup № 56
