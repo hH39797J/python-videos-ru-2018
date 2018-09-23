@@ -110,7 +110,7 @@
 | [Асинхронное программирование в Python](https://youtu.be/OEFsdk1tqAU) Алексей Кузьмин (технический руководитель, Domclick) | 28:34 | [:notebook:](https://speakerdeck.com/moscowdjango/asinkhronnoie-proghrammirovaniie-v-python) |
 
 
-## Minsk Python Meetup
+## Minsk Python Meetup 30.05.2018
 
 Событие: https://python-meetup.timepad.ru/event/642960/
 
@@ -192,7 +192,7 @@
 | [Ivan Levkivskyi - mypy: static types in Python](https://youtu.be/WbdFXxNdSgc) | 54:00 | [:notebook:](https://www.dropbox.com/s/omma003lj31amsh/talk_new_mypy.pdf?dl=0) |
 
 
-## Minsk Python Meetup
+## Minsk Python Meetup 25.04.2018
 
 Событие: https://python-meetup.timepad.ru/event/682956/
 
