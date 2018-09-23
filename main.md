@@ -110,6 +110,20 @@
 | [Асинхронное программирование в Python](https://youtu.be/OEFsdk1tqAU) Алексей Кузьмин (технический руководитель, Domclick) | 28:34 | [:notebook:](https://speakerdeck.com/moscowdjango/asinkhronnoie-proghrammirovaniie-v-python) |
 
 
+## Minsk Python Meetup
+
+Событие: https://python-meetup.timepad.ru/event/642960/
+
+Дата: **30 мая 2018**
+
+| | | |
+| --- | :---: | --- |
+| [Telegram бот своими руками / Максим Усачев / PandaDoc](https://youtu.be/8Jltggv8mN4) | 59:20 | |
+| [Code Review to the Rescue / Андрей Свиридов / itransition](https://youtu.be/qADYWuy9IDg) | 1:16:26 | |
+| [Integration vs Composition / Иван Стяжкин / DataRobot](https://youtu.be/Ytbm1BfDGRg) | 30:24 | |
+| [Telegram and viber bots / Дмитрий Демидов / iTechArt](https://youtu.be/BVQgfOYMfvU) | 18:19 | |
+
+
 ## Moscow Python Meetup № 56
 
 Событие: http://www.moscowpython.ru/meetup/56/
