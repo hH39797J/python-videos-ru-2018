@@ -91,10 +91,10 @@
 
 | | | |
 | --- | :---: | --- |
-| [Разбираем Python-монолит на пакет с пакетами, Никита Воронов](https://youtu.be/quuzV83OZg4) | 52:22 | |
+| [Разбираем Python-монолит на пакет с пакетами, Никита Воронов](https://youtu.be/quuzV83OZg4) | 52:22 | [:octocat:](https://github.com/orsinium/notes/blob/master/notes-en/python-packaging.md) |
 | [Окей гугл, как построить процессы ИБ? Константин Сазонов](https://youtu.be/I4UO3vQ8O6Q) | 53:38 | |
 | [CPython logo, Дмитрий Алимов](https://youtu.be/_Jb1zxt3k8Y) | 10:19 | [:notebook:](https://speakerdeck.com/delimitry/cpython-logo) |
-| [Ода на смерть PGP, Леонид Евдокимов](https://youtu.be/_0T4ERPKXyc) | 11:52 | |
+| [Ода на смерть PGP, Леонид Евдокимов](https://youtu.be/_0T4ERPKXyc) | 11:52 | [:notebook:](https://www.slideshare.net/LeonidEvdokimov/pgp-piterpy-meetup-6) |
 
 
 ## Moscow Python Meetup № 57
