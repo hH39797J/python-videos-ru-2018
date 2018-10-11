@@ -14,7 +14,7 @@
 
 # События
 
-## PiterPy Meetup #8
+## PiterPy Meetup #8 in English
 
 Событие: https://piterpy.timepad.ru/event/795950/
 
@@ -26,6 +26,7 @@
 | [Redis Descriptors and Where to Find Them, Vladimir Shkoda](https://youtu.be/Q5qDFL8cR8U) | 17:58 | |
 | [How to write an IDE in one day, Stanislav Rogovskiy](https://youtu.be/mCy74aNa4aY) | 46:57 | |
 | [Drawing inspiration from languages, nature and people, Stepan Zastupov](https://youtu.be/Pb7Vtyywr84) | 35:09 | |
+
 
 ## Moscow Python Meetup № 59
 
