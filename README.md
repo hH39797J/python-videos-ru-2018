@@ -10,6 +10,7 @@
 ## Содержание
 
 * [События](#%D0%A1%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F)
+  * [PiterPy Meetup \#8 in English](#piterpy-meetup-8-in-english)
   * [Moscow Python Meetup № 59](#moscow-python-meetup--59)
   * [PyCon Russia 2018](#pycon-russia-2018)
   * [Moscow Python Meetup № 58](#moscow-python-meetup--58)
@@ -35,6 +36,20 @@
 
 
 # События
+
+## PiterPy Meetup #8 in English
+
+Событие: https://piterpy.timepad.ru/event/795950/
+
+Дата: **11 сентября 2018**
+
+| | | |
+| --- | :---: | --- |
+| [How do you matter as a developer on the human colony scale, Dmitry Nazarov](https://youtu.be/BUl_gidsuxQ) | 20:11 | |
+| [Redis Descriptors and Where to Find Them, Vladimir Shkoda](https://youtu.be/Q5qDFL8cR8U) | 17:58 | |
+| [How to write an IDE in one day, Stanislav Rogovskiy](https://youtu.be/mCy74aNa4aY) | 46:57 | |
+| [Drawing inspiration from languages, nature and people, Stepan Zastupov](https://youtu.be/Pb7Vtyywr84) | 35:09 | |
+
 
 ## Moscow Python Meetup № 59
 
