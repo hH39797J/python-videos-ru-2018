@@ -9,7 +9,11 @@
 
 ## Содержание
 
-* [События](#%D0%A1%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F)
+* [События](#%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F)
+  * [PiterPy Meetup \#12](#piterpy-meetup-12)
+  * [PiterPy Meetup \#11 in English](#piterpy-meetup-11-in-english)
+  * [PiterPy Meetup \#10 Hardcore](#piterpy-meetup-10-hardcore)
+  * [PiterPy Meetup \#9](#piterpy-meetup-9)
   * [PiterPy Meetup \#8 in English](#piterpy-meetup-8-in-english)
   * [Moscow Python Meetup № 59](#moscow-python-meetup--59)
   * [PyCon Russia 2018](#pycon-russia-2018)
@@ -36,6 +40,59 @@
 
 
 # События
+
+## PiterPy Meetup #12
+
+Событие: https://piterpy.timepad.ru/event/863647/
+
+Дата: **11 декабря 2018**
+
+| | | |
+| --- | :---: | --- |
+| [Добровольная типизация в Python 3 (и не только), Максим Кольцов](https://youtu.be/EU9DoJD1olo) | 1:00:31 | [:notebook:](https://slides.com/maximkoltsov/python-typing/) |
+| [Функциональная перегрузка, Дмитрий Краснов](https://youtu.be/eQBrynDQHWE) | 43:58 | [:notebook:](http://slides.com/vizvamitra/2018_fr#/) |
+| [Пайтон или Питон? Евгений Денисов](https://youtu.be/Isus9ilx-to) | 3:27 | |
+| [Django Girls, Оля Тележная](https://youtu.be/khUvaIKlgpc) | 05:53 | |
+| [The bees, the trees, the types, the typing, Никита Воронов](https://youtu.be/zD-qBcvBSik) | 24:15 | |
+
+
+## PiterPy Meetup #11 in English
+
+Событие: https://piterpy.timepad.ru/event/804746/
+
+Дата: **6 декабря 2018**
+
+| | | |
+| --- | :---: | --- |
+| [Democratizing data at Kiwi.com, Artur Mindiyarov](https://youtu.be/eh60dOx3DLk) | 21:35 | [:notebook:](https://docs.google.com/presentation/d/1iSGMaidifl_PR57_hJu_eulWTwFnCxUM28QsKiJgoS8/edit) |
+| [How we handle our codebase in a fast-growing startup, Stanislav Stefanic](https://youtu.be/V2438ZF4G4c) | 33:04 | [:notebook:](https://docs.google.com/presentation/d/1iXc1vrsQe6LzK2_q2l1rCJ2GqaB4rYcS-p_rZaNBRQo/edit) |
+| [Testing network interactions in Python, Dmitry Dygalo](https://youtu.be/f1Loy3sMeMs) | 27:17 | [:notebook:](https://gitpitch.com/Stranger6667/talks/master?p=articles/testing-network-interactions-in-python#/) |
+| [Challenges at Kiwi.com: Connecting hundreds, Tin Marković](https://youtu.be/N_lqYGwy-O4) | 26:05 | |
+| [Logging in Python (lightning talk), Nikita Voronov](https://youtu.be/4NEAwhgZkU4) | 3:51 | |
+
+
+## PiterPy Meetup #10 Hardcore
+
+Событие: https://piterpy.timepad.ru/event/795953/
+
+Дата: **15 ноября 2018**
+
+| | | |
+| --- | :---: | --- |
+| [Системы хранения данных, Дмитрий Алимов](https://youtu.be/GV9Jq4YYogg) | 1:23:58 | [:notebook:](https://docs.google.com/presentation/d/1YkF3GtyMQJG_B4XluTRF1IkqAaV8stfBEI0rxXI8Hw4/edit?usp=sharing) |
+| [Как подключить C библиотеку к питону, Максим Кольцов](https://youtu.be/50myfzLJsnQ) | 1:23:58 | [:notebook:](https://slides.com/maximkoltsov/piterpy-sip-numpy#/) |
+
+
+## PiterPy Meetup #9
+
+Событие: https://piterpy.timepad.ru/event/804877/
+
+Дата: **18 сентября 2018**
+
+| | | |
+| --- | :---: | --- |
+| [Python 1994, Paul Everitt](https://youtu.be/-EaJG0mY6u4) | 1:47:15 | |
+
 
 ## PiterPy Meetup #8 in English
 
