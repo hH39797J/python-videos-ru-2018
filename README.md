@@ -79,7 +79,7 @@
 
 | | | |
 | --- | :---: | --- |
-| [Системы хранения данных, Дмитрий Алимов](https://youtu.be/GV9Jq4YYogg) | 1:23:58 | [:notebook:](https://docs.google.com/presentation/d/1YkF3GtyMQJG_B4XluTRF1IkqAaV8stfBEI0rxXI8Hw4/edit?usp=sharing) |
+| [Системы хранения данных, Дмитрий Алимов](https://youtu.be/GV9Jq4YYogg) | 1:23:58 | [:notebook:](https://speakerdeck.com/delimitry/data-storage-systems) |
 | [Как подключить C библиотеку к питону, Максим Кольцов](https://youtu.be/50myfzLJsnQ) | 18:25 | [:notebook:](https://slides.com/maximkoltsov/piterpy-sip-numpy#/) |
 
 
