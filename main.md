@@ -25,7 +25,7 @@
 | [Добровольная типизация в Python 3 (и не только), Максим Кольцов](https://youtu.be/EU9DoJD1olo) | 1:00:31 | [:notebook:](https://slides.com/maximkoltsov/python-typing/) |
 | [Функциональная перегрузка, Дмитрий Краснов](https://youtu.be/eQBrynDQHWE) | 43:58 | [:notebook:](http://slides.com/vizvamitra/2018_fr#/) |
 | [Пайтон или Питон? Евгений Денисов](https://youtu.be/Isus9ilx-to) | 3:27 | |
-| [Django Girls, Оля Тележная](https://youtu.be/khUvaIKlgpc) | 05:53 | |
+| [Django Girls, Оля Тележная](https://youtu.be/khUvaIKlgpc) | 5:53 | |
 | [The bees, the trees, the types, the typing, Никита Воронов](https://youtu.be/zD-qBcvBSik) | 24:15 | |
 
 
@@ -52,8 +52,8 @@
 
 | | | |
 | --- | :---: | --- |
-| [Системы хранения данных, Дмитрий Алимов](https://youtu.be/GV9Jq4YYogg) | 1:23:58 | [:notebook:](https://docs.google.com/presentation/d/1YkF3GtyMQJG_B4XluTRF1IkqAaV8stfBEI0rxXI8Hw4/edit?usp=sharing) |
-| [Как подключить C библиотеку к питону, Максим Кольцов](https://youtu.be/50myfzLJsnQ) | 1:23:58 | [:notebook:](https://slides.com/maximkoltsov/piterpy-sip-numpy#/) |
+| [Системы хранения данных, Дмитрий Алимов](https://youtu.be/GV9Jq4YYogg) | 1:23:58 | [:notebook:](https://speakerdeck.com/delimitry/data-storage-systems) |
+| [Как подключить C библиотеку к питону, Максим Кольцов](https://youtu.be/50myfzLJsnQ) | 18:25 | [:notebook:](https://slides.com/maximkoltsov/piterpy-sip-numpy#/) |
 
 
 ## PiterPy Meetup #9
