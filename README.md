@@ -90,13 +90,13 @@
 
 Событие: https://pyladies-spb.timepad.ru/event/799713/
 
-Дата: **1 ноября 2018**
+Дата: **01 ноября 2018**
 
 | | | |
 | --- | :---: | --- |
-| [Tracing, fast and slow](https://youtu.be/gP8GZHbx_fY) Lynn Root (Spotify) | 1:01:50 | |
-| [StarLine autonomous car](https://youtu.be/aYV6jb4-eNY) Maria Chakchurina (StarLine) | 51:25 | [:notebook:](http://bit.ly/2DOcozA) |
-| [Лайтнинг: Communication guidelines in IT](https://youtu.be/yvqfXM1DuAY) Anastasia Ozhereleva (Noveo) | 19:26 | [:notebook:](http://bit.ly/2S0oyby) |
+| [Tracing, fast and slow / Lynn Root](https://youtu.be/gP8GZHbx_fY) | 1:01:50 | |
+| [StarLine autonomous car / Maria Chakchurina](https://youtu.be/aYV6jb4-eNY) | 51:25 | [:notebook:](https://drive.google.com/file/d/1aC5thB9w1g5BhvEasNmBtmsMixLbtrVn/view) |
+| Лайтнинг: [Communication guidelines in IT / Anastasia Ozhereleva](https://youtu.be/yvqfXM1DuAY) | 19:26 | [:notebook:](https://docs.google.com/presentation/d/1NTDYabR-_hg7hHJMggfMyIbLzXYLZuFOXuQ4ulroSxo/edit#slide=id.p) |
 
 
 ## PyLadies SPb Meetup #2
@@ -107,10 +107,10 @@
 
 | | | |
 | --- | :---: | --- |
-| [Мягкое введение в Robot framework](https://youtu.be/5rxBohhQHdE) Елизавета Ефремова (Dell EMC) | 27:26 | [:notebook:](http://bit.ly/2R9i75v) |
-| [Чистые данные: формат tidy и pandas](https://youtu.be/iJXaG5CXISQ) Елена Савельева (Arcadia) | 42:48 | [:notebook:](http://bit.ly/2yekcGp) |
-| [Лайтнинг: University of the People: как поступить и учиться](https://youtu.be/_IHCkg6aBzo) Полина Симарева (Social Quantum) | 13:13 | [:notebook:](http://bit.ly/2ReaFpZ) |
-| [Лайтнинг: От идеи до стартапа: опыт участия в PhilTech-акселераторе](https://youtu.be/83gYkOKMJ84) Алёна Кабардинова (EPAM) | 13:22 | [:notebook:](http://bit.ly/2NB6IsV) |
+| [Мягкое введение в Robot framework / Елизавета Ефремова](https://youtu.be/5rxBohhQHdE) | 27:26 | [:notebook:](https://docs.google.com/presentation/d/1TBYyVuH8wDLuNVoRQuAGjkC0-MdoFixyzYNDDbdb42g/edit#slide=id.g442081409b_2_89) |
+| [Чистые данные: формат tidy и pandas / Елена Савельева](https://youtu.be/iJXaG5CXISQ) | 42:48 | [:notebook:](https://docs.google.com/presentation/d/15F4WtgvVoxPcpo87ip3J-x_m4Ku8syGlKvHoLmgDhF8/edit#slide=id.p) |
+| Лайтнинг: [University of the People: как поступить и учиться / Полина Симарева](https://youtu.be/_IHCkg6aBzo) | 13:13 | [:notebook:](https://drive.google.com/file/d/1ngYSofZeNSNidxk8teF_8uV6l9-XPBoT/view) |
+| Лайтнинг: [От идеи до стартапа: опыт участия в PhilTech-акселераторе / Алёна Кабардинова](https://youtu.be/83gYkOKMJ84) | 13:22 | [:notebook:](https://docs.google.com/presentation/d/1DrwKTgbHG1JNgqU_QQrdK8pOBk1F0NSeiWV5T_X9CI4/edit#slide=id.p) |
 
 
 ## PiterPy Meetup #9
@@ -122,6 +122,7 @@
 | | | |
 | --- | :---: | --- |
 | [Python 1994, Paul Everitt](https://youtu.be/-EaJG0mY6u4) | 1:47:15 | |
+| [Functional programming, Maxim Koltsov](https://youtu.be/HmXZiTF64Sc) | 14:19 | |
 
 
 ## PiterPy Meetup #8 in English
@@ -155,13 +156,13 @@
 
 Событие: https://pyladies-spb.timepad.ru/event/764008/
 
-Дата: **7 августа 2018**
+Дата: **07 августа 2018**
 
 | | | |
 | --- | :---: | --- |
-| [С чего начать изучение алгоритмов](https://youtu.be/6NwB5VFhM-Y) Лена Волжина (Яндекс.Погода) | 31:38 | [:notebook:](http://bit.ly/2MDxCE8) |
-| [Git с первого до третьего шага](https://youtu.be/A6HJjqoPk7g) Алёна Пономаренко (Social Quantum) | 27:49 | [:notebook:](http://bit.ly/2L1B2ff) |
-| [Один день из жизни в Яндексе](https://youtu.be/zTGa9y1p9lk) Надежда Бугакова (Яндекс.Толока) | 21:05 | [:notebook:](http://bit.ly/2BqCnNe) |
+| [С чего начать изучение алгоритмов / Лена Волжина](https://youtu.be/6NwB5VFhM-Y) | 31:38 | [:notebook:](https://docs.google.com/presentation/d/1nP8bql1xoh1Jpq5YhQrKMg-uakkA0_EdyifkjGgOcHs/edit#slide=id.p) |
+| [Git с первого до третьего шага / Алёна Пономаренко](https://youtu.be/A6HJjqoPk7g) | 27:49 | [:notebook:](https://docs.google.com/presentation/d/1Zmv9TbHuycfbUUtWdJlqnCsbOpg_cw9bjECFqJ_ZgMU/edit#slide=id.g3df6433ca3_0_366) |
+| [Один день из жизни в Яндексе / Надежда Бугакова](https://youtu.be/zTGa9y1p9lk) | 21:05 | [:notebook:](https://www.youtube.com/watch?v=zTGa9y1p9lk&feature=youtu.be) |
 
 
 ## PyCon Russia 2018
