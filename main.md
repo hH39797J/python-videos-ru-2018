@@ -56,6 +56,33 @@
 | [Как подключить C библиотеку к питону, Максим Кольцов](https://youtu.be/50myfzLJsnQ) | 18:25 | [:notebook:](https://slides.com/maximkoltsov/piterpy-sip-numpy#/) |
 
 
+## PyLadies SPb Meetup #3 in English
+
+Событие: https://pyladies-spb.timepad.ru/event/799713/
+
+Дата: **01 ноября 2018**
+
+| | | |
+| --- | :---: | --- |
+| [Tracing, fast and slow / Lynn Root](https://youtu.be/gP8GZHbx_fY) | 1:01:50 | |
+| [StarLine autonomous car / Maria Chakchurina](https://youtu.be/aYV6jb4-eNY) | 51:25 | [:notebook:](https://drive.google.com/file/d/1aC5thB9w1g5BhvEasNmBtmsMixLbtrVn/view) |
+| Лайтнинг: [Communication guidelines in IT / Anastasia Ozhereleva](https://youtu.be/yvqfXM1DuAY) | 19:26 | [:notebook:](https://docs.google.com/presentation/d/1NTDYabR-_hg7hHJMggfMyIbLzXYLZuFOXuQ4ulroSxo/edit#slide=id.p) |
+
+
+## PyLadies SPb Meetup #2
+
+Событие: https://pyladies-spb.timepad.ru/event/799226/
+
+Дата: **20 сентября 2018**
+
+| | | |
+| --- | :---: | --- |
+| [Мягкое введение в Robot framework / Елизавета Ефремова](https://youtu.be/5rxBohhQHdE) | 27:26 | [:notebook:](https://docs.google.com/presentation/d/1TBYyVuH8wDLuNVoRQuAGjkC0-MdoFixyzYNDDbdb42g/edit#slide=id.g442081409b_2_89) |
+| [Чистые данные: формат tidy и pandas / Елена Савельева](https://youtu.be/iJXaG5CXISQ) | 42:48 | [:notebook:](https://docs.google.com/presentation/d/15F4WtgvVoxPcpo87ip3J-x_m4Ku8syGlKvHoLmgDhF8/edit#slide=id.p) |
+| Лайтнинг: [University of the People: как поступить и учиться / Полина Симарева](https://youtu.be/_IHCkg6aBzo) | 13:13 | [:notebook:](https://drive.google.com/file/d/1ngYSofZeNSNidxk8teF_8uV6l9-XPBoT/view) |
+| Лайтнинг: [От идеи до стартапа: опыт участия в PhilTech-акселераторе / Алёна Кабардинова](https://youtu.be/83gYkOKMJ84) | 13:22 | [:notebook:](https://docs.google.com/presentation/d/1DrwKTgbHG1JNgqU_QQrdK8pOBk1F0NSeiWV5T_X9CI4/edit#slide=id.p) |
+
+
 ## PiterPy Meetup #9
 
 Событие: https://piterpy.timepad.ru/event/804877/
@@ -65,6 +92,7 @@
 | | | |
 | --- | :---: | --- |
 | [Python 1994, Paul Everitt](https://youtu.be/-EaJG0mY6u4) | 1:47:15 | |
+| [Functional programming, Maxim Koltsov](https://youtu.be/HmXZiTF64Sc) | 14:19 | |
 
 
 ## PiterPy Meetup #8 in English
@@ -92,6 +120,19 @@
 | [Генетические алгоритмы](https://youtu.be/qtN-I7s4RQE) Глеб Ерофеев (Индивидуальный предприниматель) | 25:00 | [:notebook:](https://speakerdeck.com/moscowdjango/gienietichieskiie-alghoritmy) |
 | [Простые решения машинного обучения в задачах поиска](https://youtu.be/o9uIwIuZMR0) Сергей Карпович (Mos.ru, руководитель группы поиска) | 23:58 | [:notebook:](https://speakerdeck.com/moscowdjango/prostyie-rieshieniia-mashinnogho-obuchieniia-v-zadachakh-poiska) |
 | [Осваиваем pipenv](https://youtu.be/JNT1u3Ri3YY) Александр Хаёров (Ingram Micro Cloud) | 23:47 | [:notebook:](https://speakerdeck.com/moscowdjango/osvaivaiem-pipenv) |
+
+
+## PyLadies SPb Meetup #1
+
+Событие: https://pyladies-spb.timepad.ru/event/764008/
+
+Дата: **07 августа 2018**
+
+| | | |
+| --- | :---: | --- |
+| [С чего начать изучение алгоритмов / Лена Волжина](https://youtu.be/6NwB5VFhM-Y) | 31:38 | [:notebook:](https://docs.google.com/presentation/d/1nP8bql1xoh1Jpq5YhQrKMg-uakkA0_EdyifkjGgOcHs/edit#slide=id.p) |
+| [Git с первого до третьего шага / Алёна Пономаренко](https://youtu.be/A6HJjqoPk7g) | 27:49 | [:notebook:](https://docs.google.com/presentation/d/1Zmv9TbHuycfbUUtWdJlqnCsbOpg_cw9bjECFqJ_ZgMU/edit#slide=id.g3df6433ca3_0_366) |
+| [Один день из жизни в Яндексе / Надежда Бугакова](https://youtu.be/zTGa9y1p9lk) | 21:05 | [:notebook:](https://www.youtube.com/watch?v=zTGa9y1p9lk&feature=youtu.be) |
 
 
 ## PyCon Russia 2018
