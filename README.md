@@ -13,9 +13,12 @@
   * [PiterPy Meetup \#12](#piterpy-meetup-12)
   * [PiterPy Meetup \#11 in English](#piterpy-meetup-11-in-english)
   * [PiterPy Meetup \#10 Hardcore](#piterpy-meetup-10-hardcore)
+  * [PyLadies SPb Meetup \#3 in English](#pyladies-spb-meetup-3-in-english)
+  * [PyLadies SPb Meetup \#2](#pyladies-spb-meetup-2)
   * [PiterPy Meetup \#9](#piterpy-meetup-9)
   * [PiterPy Meetup \#8 in English](#piterpy-meetup-8-in-english)
   * [Moscow Python Meetup № 59](#moscow-python-meetup--59)
+  * [PyLadies SPb Meetup \#1](#pyladies-spb-meetup-1)
   * [PyCon Russia 2018](#pycon-russia-2018)
   * [Moscow Python Meetup № 58](#moscow-python-meetup--58)
   * [PiterPy Meetup \#6](#piterpy-meetup-6)
@@ -83,6 +86,33 @@
 | [Как подключить C библиотеку к питону, Максим Кольцов](https://youtu.be/50myfzLJsnQ) | 18:25 | [:notebook:](https://slides.com/maximkoltsov/piterpy-sip-numpy#/) |
 
 
+## PyLadies SPb Meetup #3 in English
+
+Событие: https://pyladies-spb.timepad.ru/event/799713/
+
+Дата: **1 ноября 2018**
+
+| | | |
+| --- | :---: | --- |
+| [Tracing, fast and slow](https://youtu.be/gP8GZHbx_fY) Lynn Root (Spotify) | 1:01:50 | |
+| [StarLine autonomous car](https://youtu.be/aYV6jb4-eNY) Maria Chakchurina (StarLine) | 51:25 | [:notebook:](http://bit.ly/2DOcozA) |
+| [Лайтнинг: Communication guidelines in IT](https://youtu.be/yvqfXM1DuAY) Anastasia Ozhereleva (Noveo) | 19:26 | [:notebook:](http://bit.ly/2S0oyby) |
+
+
+## PyLadies SPb Meetup #2
+
+Событие: https://pyladies-spb.timepad.ru/event/799226/
+
+Дата: **20 сентября 2018**
+
+| | | |
+| --- | :---: | --- |
+| [Мягкое введение в Robot framework](https://youtu.be/5rxBohhQHdE) Елизавета Ефремова (Dell EMC) | 27:26 | [:notebook:](http://bit.ly/2R9i75v) |
+| [Чистые данные: формат tidy и pandas](https://youtu.be/iJXaG5CXISQ) Елена Савельева (Arcadia) | 42:48 | [:notebook:](http://bit.ly/2yekcGp) |
+| [Лайтнинг: University of the People: как поступить и учиться](https://youtu.be/_IHCkg6aBzo) Полина Симарева (Social Quantum) | 13:13 | [:notebook:](http://bit.ly/2ReaFpZ) |
+| [Лайтнинг: От идеи до стартапа: опыт участия в PhilTech-акселераторе](https://youtu.be/83gYkOKMJ84) Алёна Кабардинова (EPAM) | 13:22 | [:notebook:](http://bit.ly/2NB6IsV) |
+
+
 ## PiterPy Meetup #9
 
 Событие: https://piterpy.timepad.ru/event/804877/
@@ -119,6 +149,19 @@
 | [Генетические алгоритмы](https://youtu.be/qtN-I7s4RQE) Глеб Ерофеев (Индивидуальный предприниматель) | 25:00 | [:notebook:](https://speakerdeck.com/moscowdjango/gienietichieskiie-alghoritmy) |
 | [Простые решения машинного обучения в задачах поиска](https://youtu.be/o9uIwIuZMR0) Сергей Карпович (Mos.ru, руководитель группы поиска) | 23:58 | [:notebook:](https://speakerdeck.com/moscowdjango/prostyie-rieshieniia-mashinnogho-obuchieniia-v-zadachakh-poiska) |
 | [Осваиваем pipenv](https://youtu.be/JNT1u3Ri3YY) Александр Хаёров (Ingram Micro Cloud) | 23:47 | [:notebook:](https://speakerdeck.com/moscowdjango/osvaivaiem-pipenv) |
+
+
+## PyLadies SPb Meetup #1
+
+Событие: https://pyladies-spb.timepad.ru/event/764008/
+
+Дата: **7 августа 2018**
+
+| | | |
+| --- | :---: | --- |
+| [С чего начать изучение алгоритмов](https://youtu.be/6NwB5VFhM-Y) Лена Волжина (Яндекс.Погода) | 31:38 | [:notebook:](http://bit.ly/2MDxCE8) |
+| [Git с первого до третьего шага](https://youtu.be/A6HJjqoPk7g) Алёна Пономаренко (Social Quantum) | 27:49 | [:notebook:](http://bit.ly/2L1B2ff) |
+| [Один день из жизни в Яндексе](https://youtu.be/zTGa9y1p9lk) Надежда Бугакова (Яндекс.Толока) | 21:05 | [:notebook:](http://bit.ly/2BqCnNe) |
 
 
 ## PyCon Russia 2018
