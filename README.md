@@ -11,6 +11,7 @@
 
 * [События](#%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F)
   * [PiterPy Meetup \#12](#piterpy-meetup-12)
+  * [Python Meetup Chelyabinsk \#4](#python-meetup-chelyabinsk-4)
   * [PiterPy Meetup \#11 in English](#piterpy-meetup-11-in-english)
   * [PiterPy Meetup \#10 Hardcore](#piterpy-meetup-10-hardcore)
   * [PyLadies SPb Meetup \#3 in English](#pyladies-spb-meetup-3-in-english)
@@ -59,11 +60,26 @@
 | [The bees, the trees, the types, the typing, Никита Воронов](https://youtu.be/zD-qBcvBSik) | 24:15 | |
 
 
+## Python Meetup Chelyabinsk #4
+
+Событие: https://pychel.timepad.ru/event/846332/
+
+Дата: **08 декабря 2018**
+
+| | | |
+| --- | :---: | --- |
+| [Персональная экосистема для разработчика или как нам сэкономить. Ян Анисимов](https://youtu.be/XKowPLsbjyo) | 22:15 | [:notebook:](https://speakerdeck.com/pychel/ian-anisimov-piersonal-naia-ekosistiema-dlia-razrabotchika-ili-kak-nam-sekonomit) |
+| [Корутины для самых маленьких. Иван Гончарук](https://youtu.be/_obr60qv6rM) | 25:09 | [:notebook:](https://docs.google.com/presentation/u/1/d/1vjULy8ECxIQMGTB6Gq4fKzPyGCxFFrDRrTY5NqQ2lnM/) |
+| [Как обновить Python 2.7 на Python 3.6 и не умереть. Александр Полищук](https://youtu.be/KBS43M5tkQU) | 41:05 | [:notebook:](https://speakerdeck.com/pychel/alieksandr-polishchuk-kak-obnovit-python-2-dot-7-na-python-3-dot-6-i-nie-umieriet) |
+| [Python и бинарные данные. Денис Катаев](https://youtu.be/Dwde_Fzxk1o) | 34:06 | [:notebook:](https://slides.com/kataev/memory-chelyabinsk/) |
+| [Краткий вводный обзор Python-библиотек для data science. Руслан Сафин](https://youtu.be/R4jnR-iJOJg) | 52:03 | [:notebook:](https://github.com/razonrus/mlcourse_open/tree/master/PythonMeetup) |
+
+
 ## PiterPy Meetup #11 in English
 
 Событие: https://piterpy.timepad.ru/event/804746/
 
-Дата: **6 декабря 2018**
+Дата: **06 декабря 2018**
 
 | | | |
 | --- | :---: | --- |
